@@ -1,0 +1,5332 @@
+[
+    {
+        "customer_name": "Customer_0",
+        "products": [
+            {
+                "name": "Product_53",
+                "original_price": 51.15,
+                "discounted_price": 36.827999999999996
+            },
+            {
+                "name": "Product_31",
+                "original_price": 67.91,
+                "discounted_price": 67.91
+            },
+            {
+                "name": "Product_23",
+                "original_price": 35.6,
+                "discounted_price": 35.6
+            }
+        ],
+        "total_price": 154.66,
+        "total_amount_spent": 126.3042,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_1",
+        "products": [
+            {
+                "name": "Product_48",
+                "original_price": 27.81,
+                "discounted_price": 20.0232
+            },
+            {
+                "name": "Product_44",
+                "original_price": 23.67,
+                "discounted_price": 23.67
+            },
+            {
+                "name": "Product_25",
+                "original_price": 7.87,
+                "discounted_price": 7.87
+            },
+            {
+                "name": "Product_90",
+                "original_price": 52.99,
+                "discounted_price": 38.1528
+            },
+            {
+                "name": "Product_11",
+                "original_price": 96.03,
+                "discounted_price": 96.03
+            }
+        ],
+        "total_price": 208.37,
+        "total_amount_spent": 167.1714,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_2",
+        "products": [
+            {
+                "name": "Product_73",
+                "original_price": 12.14,
+                "discounted_price": 10.1976
+            },
+            {
+                "name": "Product_18",
+                "original_price": 92.12,
+                "discounted_price": 66.3264
+            },
+            {
+                "name": "Product_30",
+                "original_price": 33.35,
+                "discounted_price": 33.35
+            },
+            {
+                "name": "Product_12",
+                "original_price": 38.15,
+                "discounted_price": 38.15
+            },
+            {
+                "name": "Product_91",
+                "original_price": 87.4,
+                "discounted_price": 62.928000000000004
+            },
+            {
+                "name": "Product_25",
+                "original_price": 7.87,
+                "discounted_price": 7.87
+            },
+            {
+                "name": "Product_80",
+                "original_price": 13.6,
+                "discounted_price": 13.6
+            },
+            {
+                "name": "Product_28",
+                "original_price": 9.36,
+                "discounted_price": 9.36
+            },
+            {
+                "name": "Product_6",
+                "original_price": 32.25,
+                "discounted_price": 32.25
+            }
+        ],
+        "total_price": 326.24,
+        "total_amount_spent": 246.62879999999998,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_3",
+        "products": [
+            {
+                "name": "Product_55",
+                "original_price": 76.69,
+                "discounted_price": 55.2168
+            },
+            {
+                "name": "Product_1",
+                "original_price": 21.28,
+                "discounted_price": 17.8752
+            },
+            {
+                "name": "Product_11",
+                "original_price": 96.03,
+                "discounted_price": 96.03
+            },
+            {
+                "name": "Product_71",
+                "original_price": 16.54,
+                "discounted_price": 13.8936
+            }
+        ],
+        "total_price": 210.54,
+        "total_amount_spent": 183.0156,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_4",
+        "products": [
+            {
+                "name": "Product_19",
+                "original_price": 60.71,
+                "discounted_price": 60.71
+            },
+            {
+                "name": "Product_39",
+                "original_price": 92.94,
+                "discounted_price": 92.94
+            },
+            {
+                "name": "Product_59",
+                "original_price": 35.54,
+                "discounted_price": 29.498199999999997
+            },
+            {
+                "name": "Product_35",
+                "original_price": 77.06,
+                "discounted_price": 77.06
+            },
+            {
+                "name": "Product_5",
+                "original_price": 70.14,
+                "discounted_price": 70.14
+            },
+            {
+                "name": "Product_72",
+                "original_price": 85.31,
+                "discounted_price": 71.6604
+            },
+            {
+                "name": "Product_77",
+                "original_price": 43.42,
+                "discounted_price": 36.4728
+            }
+        ],
+        "total_price": 465.12,
+        "total_amount_spent": 394.63326,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_5",
+        "products": [
+            {
+                "name": "Product_17",
+                "original_price": 53.87,
+                "discounted_price": 53.87
+            }
+        ],
+        "total_price": 53.87,
+        "total_amount_spent": 48.483,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_6",
+        "products": [
+            {
+                "name": "Product_40",
+                "original_price": 15.65,
+                "discounted_price": 15.65
+            },
+            {
+                "name": "Product_83",
+                "original_price": 82.5,
+                "discounted_price": 82.5
+            },
+            {
+                "name": "Product_81",
+                "original_price": 52.41,
+                "discounted_price": 52.41
+            }
+        ],
+        "total_price": 150.56,
+        "total_amount_spent": 150.56,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_7",
+        "products": [
+            {
+                "name": "Product_92",
+                "original_price": 53.41,
+                "discounted_price": 53.41
+            },
+            {
+                "name": "Product_74",
+                "original_price": 85.73,
+                "discounted_price": 61.7256
+            },
+            {
+                "name": "Product_3",
+                "original_price": 40.6,
+                "discounted_price": 40.6
+            },
+            {
+                "name": "Product_78",
+                "original_price": 66.38,
+                "discounted_price": 55.75919999999999
+            },
+            {
+                "name": "Product_30",
+                "original_price": 33.35,
+                "discounted_price": 33.35
+            },
+            {
+                "name": "Product_12",
+                "original_price": 38.15,
+                "discounted_price": 38.15
+            },
+            {
+                "name": "Product_31",
+                "original_price": 67.91,
+                "discounted_price": 67.91
+            },
+            {
+                "name": "Product_39",
+                "original_price": 92.94,
+                "discounted_price": 92.94
+            },
+            {
+                "name": "Product_36",
+                "original_price": 16.0,
+                "discounted_price": 16.0
+            }
+        ],
+        "total_price": 494.46999999999997,
+        "total_amount_spent": 413.86032,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_8",
+        "products": [
+            {
+                "name": "Product_19",
+                "original_price": 60.71,
+                "discounted_price": 60.71
+            },
+            {
+                "name": "Product_88",
+                "original_price": 29.99,
+                "discounted_price": 21.592799999999997
+            },
+            {
+                "name": "Product_34",
+                "original_price": 9.66,
+                "discounted_price": 9.66
+            },
+            {
+                "name": "Product_81",
+                "original_price": 52.41,
+                "discounted_price": 52.41
+            },
+            {
+                "name": "Product_11",
+                "original_price": 96.03,
+                "discounted_price": 96.03
+            },
+            {
+                "name": "Product_70",
+                "original_price": 55.58,
+                "discounted_price": 55.58
+            },
+            {
+                "name": "Product_82",
+                "original_price": 77.91,
+                "discounted_price": 77.91
+            },
+            {
+                "name": "Product_43",
+                "original_price": 15.11,
+                "discounted_price": 10.879199999999999
+            },
+            {
+                "name": "Product_87",
+                "original_price": 75.01,
+                "discounted_price": 75.01
+            },
+            {
+                "name": "Product_49",
+                "original_price": 21.46,
+                "discounted_price": 15.4512
+            }
+        ],
+        "total_price": 493.87,
+        "total_amount_spent": 427.70988,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_9",
+        "products": [
+            {
+                "name": "Product_84",
+                "original_price": 22.53,
+                "discounted_price": 22.53
+            },
+            {
+                "name": "Product_83",
+                "original_price": 82.5,
+                "discounted_price": 82.5
+            },
+            {
+                "name": "Product_25",
+                "original_price": 7.87,
+                "discounted_price": 7.87
+            },
+            {
+                "name": "Product_1",
+                "original_price": 21.28,
+                "discounted_price": 17.8752
+            },
+            {
+                "name": "Product_64",
+                "original_price": 32.19,
+                "discounted_price": 32.19
+            },
+            {
+                "name": "Product_15",
+                "original_price": 20.91,
+                "discounted_price": 15.0552
+            },
+            {
+                "name": "Product_76",
+                "original_price": 16.23,
+                "discounted_price": 11.685599999999999
+            },
+            {
+                "name": "Product_26",
+                "original_price": 96.19,
+                "discounted_price": 96.19
+            },
+            {
+                "name": "Product_44",
+                "original_price": 23.67,
+                "discounted_price": 23.67
+            },
+            {
+                "name": "Product_31",
+                "original_price": 67.91,
+                "discounted_price": 67.91
+            }
+        ],
+        "total_price": 391.28,
+        "total_amount_spent": 339.7284,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_10",
+        "products": [
+            {
+                "name": "Product_99",
+                "original_price": 46.88,
+                "discounted_price": 46.88
+            },
+            {
+                "name": "Product_30",
+                "original_price": 33.35,
+                "discounted_price": 33.35
+            },
+            {
+                "name": "Product_71",
+                "original_price": 16.54,
+                "discounted_price": 13.8936
+            },
+            {
+                "name": "Product_13",
+                "original_price": 32.27,
+                "discounted_price": 27.106800000000003
+            },
+            {
+                "name": "Product_40",
+                "original_price": 15.65,
+                "discounted_price": 15.65
+            },
+            {
+                "name": "Product_76",
+                "original_price": 16.23,
+                "discounted_price": 11.685599999999999
+            },
+            {
+                "name": "Product_74",
+                "original_price": 85.73,
+                "discounted_price": 61.7256
+            },
+            {
+                "name": "Product_3",
+                "original_price": 40.6,
+                "discounted_price": 40.6
+            },
+            {
+                "name": "Product_63",
+                "original_price": 63.1,
+                "discounted_price": 63.1
+            },
+            {
+                "name": "Product_65",
+                "original_price": 38.76,
+                "discounted_price": 38.76
+            }
+        ],
+        "total_price": 389.11,
+        "total_amount_spent": 352.7516,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_11",
+        "products": [
+            {
+                "name": "Product_36",
+                "original_price": 16.0,
+                "discounted_price": 16.0
+            },
+            {
+                "name": "Product_23",
+                "original_price": 35.6,
+                "discounted_price": 35.6
+            },
+            {
+                "name": "Product_53",
+                "original_price": 51.15,
+                "discounted_price": 36.827999999999996
+            },
+            {
+                "name": "Product_52",
+                "original_price": 61.66,
+                "discounted_price": 44.395199999999996
+            },
+            {
+                "name": "Product_11",
+                "original_price": 96.03,
+                "discounted_price": 96.03
+            },
+            {
+                "name": "Product_31",
+                "original_price": 67.91,
+                "discounted_price": 67.91
+            }
+        ],
+        "total_price": 328.35,
+        "total_amount_spent": 296.7632,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_12",
+        "products": [
+            {
+                "name": "Product_33",
+                "original_price": 68.61,
+                "discounted_price": 68.61
+            },
+            {
+                "name": "Product_82",
+                "original_price": 77.91,
+                "discounted_price": 77.91
+            },
+            {
+                "name": "Product_73",
+                "original_price": 12.14,
+                "discounted_price": 10.1976
+            },
+            {
+                "name": "Product_3",
+                "original_price": 40.6,
+                "discounted_price": 40.6
+            },
+            {
+                "name": "Product_24",
+                "original_price": 9.4,
+                "discounted_price": 9.4
+            },
+            {
+                "name": "Product_49",
+                "original_price": 21.46,
+                "discounted_price": 15.4512
+            },
+            {
+                "name": "Product_4",
+                "original_price": 86.7,
+                "discounted_price": 86.7
+            },
+            {
+                "name": "Product_41",
+                "original_price": 76.64,
+                "discounted_price": 64.3776
+            },
+            {
+                "name": "Product_84",
+                "original_price": 22.53,
+                "discounted_price": 22.53
+            },
+            {
+                "name": "Product_0",
+                "original_price": 90.01,
+                "discounted_price": 90.01
+            }
+        ],
+        "total_price": 506.0,
+        "total_amount_spent": 485.78639999999996,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_13",
+        "products": [
+            {
+                "name": "Product_30",
+                "original_price": 33.35,
+                "discounted_price": 33.35
+            },
+            {
+                "name": "Product_27",
+                "original_price": 76.2,
+                "discounted_price": 76.2
+            },
+            {
+                "name": "Product_33",
+                "original_price": 68.61,
+                "discounted_price": 68.61
+            },
+            {
+                "name": "Product_86",
+                "original_price": 20.0,
+                "discounted_price": 14.399999999999999
+            },
+            {
+                "name": "Product_87",
+                "original_price": 75.01,
+                "discounted_price": 75.01
+            }
+        ],
+        "total_price": 273.17,
+        "total_amount_spent": 267.57000000000005,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_14",
+        "products": [
+            {
+                "name": "Product_34",
+                "original_price": 9.66,
+                "discounted_price": 9.66
+            },
+            {
+                "name": "Product_24",
+                "original_price": 9.4,
+                "discounted_price": 9.4
+            },
+            {
+                "name": "Product_50",
+                "original_price": 93.8,
+                "discounted_price": 93.8
+            },
+            {
+                "name": "Product_19",
+                "original_price": 60.71,
+                "discounted_price": 60.71
+            },
+            {
+                "name": "Product_49",
+                "original_price": 21.46,
+                "discounted_price": 15.4512
+            },
+            {
+                "name": "Product_98",
+                "original_price": 53.44,
+                "discounted_price": 44.889599999999994
+            },
+            {
+                "name": "Product_83",
+                "original_price": 82.5,
+                "discounted_price": 82.5
+            },
+            {
+                "name": "Product_46",
+                "original_price": 79.05,
+                "discounted_price": 79.05
+            }
+        ],
+        "total_price": 410.02,
+        "total_amount_spent": 355.91472,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_15",
+        "products": [
+            {
+                "name": "Product_47",
+                "original_price": 35.23,
+                "discounted_price": 29.593199999999996
+            },
+            {
+                "name": "Product_64",
+                "original_price": 32.19,
+                "discounted_price": 32.19
+            }
+        ],
+        "total_price": 67.41999999999999,
+        "total_amount_spent": 61.783199999999994,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_16",
+        "products": [
+            {
+                "name": "Product_84",
+                "original_price": 22.53,
+                "discounted_price": 22.53
+            }
+        ],
+        "total_price": 22.53,
+        "total_amount_spent": 22.53,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_17",
+        "products": [
+            {
+                "name": "Product_61",
+                "original_price": 28.56,
+                "discounted_price": 28.56
+            }
+        ],
+        "total_price": 28.56,
+        "total_amount_spent": 28.56,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_18",
+        "products": [
+            {
+                "name": "Product_56",
+                "original_price": 19.1,
+                "discounted_price": 13.752
+            },
+            {
+                "name": "Product_57",
+                "original_price": 49.96,
+                "discounted_price": 41.9664
+            },
+            {
+                "name": "Product_0",
+                "original_price": 90.01,
+                "discounted_price": 90.01
+            },
+            {
+                "name": "Product_98",
+                "original_price": 53.44,
+                "discounted_price": 44.889599999999994
+            }
+        ],
+        "total_price": 212.51,
+        "total_amount_spent": 171.55620000000002,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_19",
+        "products": [
+            {
+                "name": "Product_47",
+                "original_price": 35.23,
+                "discounted_price": 29.593199999999996
+            },
+            {
+                "name": "Product_81",
+                "original_price": 52.41,
+                "discounted_price": 52.41
+            },
+            {
+                "name": "Product_3",
+                "original_price": 40.6,
+                "discounted_price": 40.6
+            },
+            {
+                "name": "Product_82",
+                "original_price": 77.91,
+                "discounted_price": 77.91
+            },
+            {
+                "name": "Product_46",
+                "original_price": 79.05,
+                "discounted_price": 79.05
+            },
+            {
+                "name": "Product_57",
+                "original_price": 49.96,
+                "discounted_price": 41.9664
+            },
+            {
+                "name": "Product_30",
+                "original_price": 33.35,
+                "discounted_price": 33.35
+            },
+            {
+                "name": "Product_95",
+                "original_price": 73.95,
+                "discounted_price": 53.244
+            },
+            {
+                "name": "Product_8",
+                "original_price": 6.56,
+                "discounted_price": 5.5104
+            },
+            {
+                "name": "Product_2",
+                "original_price": 22.35,
+                "discounted_price": 18.774
+            }
+        ],
+        "total_price": 471.37,
+        "total_amount_spent": 389.16720000000004,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_20",
+        "products": [
+            {
+                "name": "Product_25",
+                "original_price": 7.87,
+                "discounted_price": 7.87
+            },
+            {
+                "name": "Product_12",
+                "original_price": 38.15,
+                "discounted_price": 38.15
+            },
+            {
+                "name": "Product_71",
+                "original_price": 16.54,
+                "discounted_price": 13.8936
+            },
+            {
+                "name": "Product_46",
+                "original_price": 79.05,
+                "discounted_price": 79.05
+            },
+            {
+                "name": "Product_10",
+                "original_price": 30.1,
+                "discounted_price": 21.672
+            },
+            {
+                "name": "Product_16",
+                "original_price": 51.12,
+                "discounted_price": 51.12
+            },
+            {
+                "name": "Product_20",
+                "original_price": 28.62,
+                "discounted_price": 28.62
+            },
+            {
+                "name": "Product_35",
+                "original_price": 77.06,
+                "discounted_price": 77.06
+            },
+            {
+                "name": "Product_74",
+                "original_price": 85.73,
+                "discounted_price": 61.7256
+            },
+            {
+                "name": "Product_87",
+                "original_price": 75.01,
+                "discounted_price": 75.01
+            }
+        ],
+        "total_price": 489.25,
+        "total_amount_spent": 454.1712,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_21",
+        "products": [
+            {
+                "name": "Product_34",
+                "original_price": 9.66,
+                "discounted_price": 9.66
+            },
+            {
+                "name": "Product_3",
+                "original_price": 40.6,
+                "discounted_price": 40.6
+            },
+            {
+                "name": "Product_92",
+                "original_price": 53.41,
+                "discounted_price": 53.41
+            },
+            {
+                "name": "Product_20",
+                "original_price": 28.62,
+                "discounted_price": 28.62
+            },
+            {
+                "name": "Product_93",
+                "original_price": 34.42,
+                "discounted_price": 28.9128
+            },
+            {
+                "name": "Product_71",
+                "original_price": 16.54,
+                "discounted_price": 13.8936
+            },
+            {
+                "name": "Product_95",
+                "original_price": 73.95,
+                "discounted_price": 53.244
+            },
+            {
+                "name": "Product_49",
+                "original_price": 21.46,
+                "discounted_price": 15.4512
+            },
+            {
+                "name": "Product_48",
+                "original_price": 27.81,
+                "discounted_price": 20.0232
+            }
+        ],
+        "total_price": 306.47,
+        "total_amount_spent": 263.8148,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_22",
+        "products": [
+            {
+                "name": "Product_99",
+                "original_price": 46.88,
+                "discounted_price": 46.88
+            },
+            {
+                "name": "Product_25",
+                "original_price": 7.87,
+                "discounted_price": 7.87
+            },
+            {
+                "name": "Product_87",
+                "original_price": 75.01,
+                "discounted_price": 75.01
+            },
+            {
+                "name": "Product_96",
+                "original_price": 54.69,
+                "discounted_price": 45.9396
+            },
+            {
+                "name": "Product_72",
+                "original_price": 85.31,
+                "discounted_price": 71.6604
+            }
+        ],
+        "total_price": 269.76,
+        "total_amount_spent": 222.62399999999997,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_23",
+        "products": [
+            {
+                "name": "Product_78",
+                "original_price": 66.38,
+                "discounted_price": 55.75919999999999
+            },
+            {
+                "name": "Product_99",
+                "original_price": 46.88,
+                "discounted_price": 46.88
+            },
+            {
+                "name": "Product_22",
+                "original_price": 83.36,
+                "discounted_price": 70.02239999999999
+            },
+            {
+                "name": "Product_94",
+                "original_price": 92.02,
+                "discounted_price": 92.02
+            }
+        ],
+        "total_price": 288.64,
+        "total_amount_spent": 238.21343999999996,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_24",
+        "products": [
+            {
+                "name": "Product_36",
+                "original_price": 16.0,
+                "discounted_price": 16.0
+            },
+            {
+                "name": "Product_26",
+                "original_price": 96.19,
+                "discounted_price": 96.19
+            },
+            {
+                "name": "Product_87",
+                "original_price": 75.01,
+                "discounted_price": 75.01
+            },
+            {
+                "name": "Product_92",
+                "original_price": 53.41,
+                "discounted_price": 53.41
+            },
+            {
+                "name": "Product_78",
+                "original_price": 66.38,
+                "discounted_price": 55.75919999999999
+            },
+            {
+                "name": "Product_80",
+                "original_price": 13.6,
+                "discounted_price": 13.6
+            },
+            {
+                "name": "Product_23",
+                "original_price": 35.6,
+                "discounted_price": 35.6
+            },
+            {
+                "name": "Product_93",
+                "original_price": 34.42,
+                "discounted_price": 28.9128
+            }
+        ],
+        "total_price": 390.61,
+        "total_amount_spent": 374.482,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_25",
+        "products": [
+            {
+                "name": "Product_44",
+                "original_price": 23.67,
+                "discounted_price": 23.67
+            },
+            {
+                "name": "Product_58",
+                "original_price": 12.39,
+                "discounted_price": 10.4076
+            },
+            {
+                "name": "Product_70",
+                "original_price": 55.58,
+                "discounted_price": 55.58
+            },
+            {
+                "name": "Product_33",
+                "original_price": 68.61,
+                "discounted_price": 68.61
+            },
+            {
+                "name": "Product_34",
+                "original_price": 9.66,
+                "discounted_price": 9.66
+            },
+            {
+                "name": "Product_48",
+                "original_price": 27.81,
+                "discounted_price": 20.0232
+            },
+            {
+                "name": "Product_8",
+                "original_price": 6.56,
+                "discounted_price": 5.5104
+            },
+            {
+                "name": "Product_55",
+                "original_price": 76.69,
+                "discounted_price": 55.2168
+            },
+            {
+                "name": "Product_19",
+                "original_price": 60.71,
+                "discounted_price": 60.71
+            },
+            {
+                "name": "Product_56",
+                "original_price": 19.1,
+                "discounted_price": 13.752
+            }
+        ],
+        "total_price": 360.78,
+        "total_amount_spent": 290.826,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_26",
+        "products": [
+            {
+                "name": "Product_68",
+                "original_price": 77.73,
+                "discounted_price": 65.2932
+            },
+            {
+                "name": "Product_41",
+                "original_price": 76.64,
+                "discounted_price": 64.3776
+            },
+            {
+                "name": "Product_91",
+                "original_price": 87.4,
+                "discounted_price": 62.928000000000004
+            },
+            {
+                "name": "Product_9",
+                "original_price": 94.4,
+                "discounted_price": 94.4
+            },
+            {
+                "name": "Product_8",
+                "original_price": 6.56,
+                "discounted_price": 5.5104
+            },
+            {
+                "name": "Product_35",
+                "original_price": 77.06,
+                "discounted_price": 77.06
+            },
+            {
+                "name": "Product_56",
+                "original_price": 19.1,
+                "discounted_price": 13.752
+            },
+            {
+                "name": "Product_29",
+                "original_price": 46.97,
+                "discounted_price": 33.8184
+            },
+            {
+                "name": "Product_1",
+                "original_price": 21.28,
+                "discounted_price": 17.8752
+            },
+            {
+                "name": "Product_51",
+                "original_price": 89.75,
+                "discounted_price": 89.75
+            }
+        ],
+        "total_price": 596.89,
+        "total_amount_spent": 472.28831999999994,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_27",
+        "products": [
+            {
+                "name": "Product_9",
+                "original_price": 94.4,
+                "discounted_price": 94.4
+            },
+            {
+                "name": "Product_95",
+                "original_price": 73.95,
+                "discounted_price": 53.244
+            },
+            {
+                "name": "Product_72",
+                "original_price": 85.31,
+                "discounted_price": 71.6604
+            },
+            {
+                "name": "Product_70",
+                "original_price": 55.58,
+                "discounted_price": 55.58
+            },
+            {
+                "name": "Product_21",
+                "original_price": 29.4,
+                "discounted_price": 29.4
+            },
+            {
+                "name": "Product_42",
+                "original_price": 74.25,
+                "discounted_price": 62.37
+            },
+            {
+                "name": "Product_92",
+                "original_price": 53.41,
+                "discounted_price": 53.41
+            },
+            {
+                "name": "Product_59",
+                "original_price": 35.54,
+                "discounted_price": 29.498199999999997
+            }
+        ],
+        "total_price": 501.84000000000003,
+        "total_amount_spent": 404.60634,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_28",
+        "products": [
+            {
+                "name": "Product_72",
+                "original_price": 85.31,
+                "discounted_price": 71.6604
+            },
+            {
+                "name": "Product_27",
+                "original_price": 76.2,
+                "discounted_price": 76.2
+            },
+            {
+                "name": "Product_35",
+                "original_price": 77.06,
+                "discounted_price": 77.06
+            },
+            {
+                "name": "Product_38",
+                "original_price": 28.75,
+                "discounted_price": 28.75
+            },
+            {
+                "name": "Product_78",
+                "original_price": 66.38,
+                "discounted_price": 55.75919999999999
+            },
+            {
+                "name": "Product_29",
+                "original_price": 46.97,
+                "discounted_price": 33.8184
+            },
+            {
+                "name": "Product_48",
+                "original_price": 27.81,
+                "discounted_price": 20.0232
+            },
+            {
+                "name": "Product_59",
+                "original_price": 35.54,
+                "discounted_price": 29.498199999999997
+            },
+            {
+                "name": "Product_2",
+                "original_price": 22.35,
+                "discounted_price": 18.774
+            },
+            {
+                "name": "Product_19",
+                "original_price": 60.71,
+                "discounted_price": 60.71
+            }
+        ],
+        "total_price": 527.08,
+        "total_amount_spent": 472.25339999999994,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_29",
+        "products": [
+            {
+                "name": "Product_41",
+                "original_price": 76.64,
+                "discounted_price": 64.3776
+            },
+            {
+                "name": "Product_54",
+                "original_price": 51.45,
+                "discounted_price": 51.45
+            },
+            {
+                "name": "Product_79",
+                "original_price": 21.17,
+                "discounted_price": 15.2424
+            },
+            {
+                "name": "Product_26",
+                "original_price": 96.19,
+                "discounted_price": 96.19
+            },
+            {
+                "name": "Product_68",
+                "original_price": 77.73,
+                "discounted_price": 65.2932
+            },
+            {
+                "name": "Product_94",
+                "original_price": 92.02,
+                "discounted_price": 92.02
+            }
+        ],
+        "total_price": 415.2,
+        "total_amount_spent": 384.5732,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_30",
+        "products": [
+            {
+                "name": "Product_62",
+                "original_price": 98.43,
+                "discounted_price": 98.43
+            },
+            {
+                "name": "Product_81",
+                "original_price": 52.41,
+                "discounted_price": 52.41
+            },
+            {
+                "name": "Product_41",
+                "original_price": 76.64,
+                "discounted_price": 64.3776
+            },
+            {
+                "name": "Product_90",
+                "original_price": 52.99,
+                "discounted_price": 38.1528
+            },
+            {
+                "name": "Product_25",
+                "original_price": 7.87,
+                "discounted_price": 7.87
+            },
+            {
+                "name": "Product_98",
+                "original_price": 53.44,
+                "discounted_price": 44.889599999999994
+            },
+            {
+                "name": "Product_71",
+                "original_price": 16.54,
+                "discounted_price": 13.8936
+            },
+            {
+                "name": "Product_78",
+                "original_price": 66.38,
+                "discounted_price": 55.75919999999999
+            }
+        ],
+        "total_price": 424.7,
+        "total_amount_spent": 338.20451999999995,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_31",
+        "products": [
+            {
+                "name": "Product_1",
+                "original_price": 21.28,
+                "discounted_price": 17.8752
+            },
+            {
+                "name": "Product_15",
+                "original_price": 20.91,
+                "discounted_price": 15.0552
+            },
+            {
+                "name": "Product_32",
+                "original_price": 19.0,
+                "discounted_price": 15.959999999999999
+            },
+            {
+                "name": "Product_11",
+                "original_price": 96.03,
+                "discounted_price": 96.03
+            },
+            {
+                "name": "Product_10",
+                "original_price": 30.1,
+                "discounted_price": 21.672
+            },
+            {
+                "name": "Product_38",
+                "original_price": 28.75,
+                "discounted_price": 28.75
+            }
+        ],
+        "total_price": 216.07,
+        "total_amount_spent": 175.80816000000002,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_32",
+        "products": [
+            {
+                "name": "Product_67",
+                "original_price": 44.91,
+                "discounted_price": 44.91
+            },
+            {
+                "name": "Product_69",
+                "original_price": 40.86,
+                "discounted_price": 40.86
+            },
+            {
+                "name": "Product_76",
+                "original_price": 16.23,
+                "discounted_price": 11.685599999999999
+            },
+            {
+                "name": "Product_25",
+                "original_price": 7.87,
+                "discounted_price": 7.87
+            },
+            {
+                "name": "Product_90",
+                "original_price": 52.99,
+                "discounted_price": 38.1528
+            },
+            {
+                "name": "Product_65",
+                "original_price": 38.76,
+                "discounted_price": 38.76
+            },
+            {
+                "name": "Product_50",
+                "original_price": 93.8,
+                "discounted_price": 93.8
+            },
+            {
+                "name": "Product_83",
+                "original_price": 82.5,
+                "discounted_price": 82.5
+            },
+            {
+                "name": "Product_61",
+                "original_price": 28.56,
+                "discounted_price": 28.56
+            },
+            {
+                "name": "Product_78",
+                "original_price": 66.38,
+                "discounted_price": 55.75919999999999
+            }
+        ],
+        "total_price": 472.86,
+        "total_amount_spent": 398.57183999999995,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_33",
+        "products": [
+            {
+                "name": "Product_33",
+                "original_price": 68.61,
+                "discounted_price": 68.61
+            },
+            {
+                "name": "Product_54",
+                "original_price": 51.45,
+                "discounted_price": 51.45
+            },
+            {
+                "name": "Product_0",
+                "original_price": 90.01,
+                "discounted_price": 90.01
+            },
+            {
+                "name": "Product_58",
+                "original_price": 12.39,
+                "discounted_price": 10.4076
+            },
+            {
+                "name": "Product_76",
+                "original_price": 16.23,
+                "discounted_price": 11.685599999999999
+            },
+            {
+                "name": "Product_8",
+                "original_price": 6.56,
+                "discounted_price": 5.5104
+            }
+        ],
+        "total_price": 245.25,
+        "total_amount_spent": 237.6736,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_34",
+        "products": [
+            {
+                "name": "Product_89",
+                "original_price": 81.01,
+                "discounted_price": 81.01
+            },
+            {
+                "name": "Product_21",
+                "original_price": 29.4,
+                "discounted_price": 29.4
+            },
+            {
+                "name": "Product_49",
+                "original_price": 21.46,
+                "discounted_price": 15.4512
+            }
+        ],
+        "total_price": 131.87,
+        "total_amount_spent": 125.8612,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_35",
+        "products": [
+            {
+                "name": "Product_75",
+                "original_price": 78.98,
+                "discounted_price": 56.8656
+            },
+            {
+                "name": "Product_31",
+                "original_price": 67.91,
+                "discounted_price": 67.91
+            },
+            {
+                "name": "Product_57",
+                "original_price": 49.96,
+                "discounted_price": 41.9664
+            }
+        ],
+        "total_price": 196.85,
+        "total_amount_spent": 150.0678,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_36",
+        "products": [
+            {
+                "name": "Product_84",
+                "original_price": 22.53,
+                "discounted_price": 22.53
+            },
+            {
+                "name": "Product_43",
+                "original_price": 15.11,
+                "discounted_price": 10.879199999999999
+            },
+            {
+                "name": "Product_23",
+                "original_price": 35.6,
+                "discounted_price": 35.6
+            },
+            {
+                "name": "Product_36",
+                "original_price": 16.0,
+                "discounted_price": 16.0
+            },
+            {
+                "name": "Product_70",
+                "original_price": 55.58,
+                "discounted_price": 55.58
+            }
+        ],
+        "total_price": 144.82,
+        "total_amount_spent": 140.5892,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_37",
+        "products": [
+            {
+                "name": "Product_75",
+                "original_price": 78.98,
+                "discounted_price": 56.8656
+            },
+            {
+                "name": "Product_63",
+                "original_price": 63.1,
+                "discounted_price": 63.1
+            },
+            {
+                "name": "Product_1",
+                "original_price": 21.28,
+                "discounted_price": 17.8752
+            },
+            {
+                "name": "Product_95",
+                "original_price": 73.95,
+                "discounted_price": 53.244
+            },
+            {
+                "name": "Product_8",
+                "original_price": 6.56,
+                "discounted_price": 5.5104
+            },
+            {
+                "name": "Product_15",
+                "original_price": 20.91,
+                "discounted_price": 15.0552
+            },
+            {
+                "name": "Product_14",
+                "original_price": 57.66,
+                "discounted_price": 57.66
+            },
+            {
+                "name": "Product_17",
+                "original_price": 53.87,
+                "discounted_price": 53.87
+            },
+            {
+                "name": "Product_55",
+                "original_price": 76.69,
+                "discounted_price": 55.2168
+            },
+            {
+                "name": "Product_80",
+                "original_price": 13.6,
+                "discounted_price": 13.6
+            }
+        ],
+        "total_price": 466.6,
+        "total_amount_spent": 391.99719999999996,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_38",
+        "products": [
+            {
+                "name": "Product_61",
+                "original_price": 28.56,
+                "discounted_price": 28.56
+            },
+            {
+                "name": "Product_8",
+                "original_price": 6.56,
+                "discounted_price": 5.5104
+            },
+            {
+                "name": "Product_80",
+                "original_price": 13.6,
+                "discounted_price": 13.6
+            },
+            {
+                "name": "Product_25",
+                "original_price": 7.87,
+                "discounted_price": 7.87
+            },
+            {
+                "name": "Product_96",
+                "original_price": 54.69,
+                "discounted_price": 45.9396
+            },
+            {
+                "name": "Product_49",
+                "original_price": 21.46,
+                "discounted_price": 15.4512
+            },
+            {
+                "name": "Product_4",
+                "original_price": 86.7,
+                "discounted_price": 86.7
+            }
+        ],
+        "total_price": 219.44,
+        "total_amount_spent": 183.26808,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_39",
+        "products": [
+            {
+                "name": "Product_55",
+                "original_price": 76.69,
+                "discounted_price": 55.2168
+            },
+            {
+                "name": "Product_45",
+                "original_price": 88.75,
+                "discounted_price": 88.75
+            },
+            {
+                "name": "Product_84",
+                "original_price": 22.53,
+                "discounted_price": 22.53
+            },
+            {
+                "name": "Product_44",
+                "original_price": 23.67,
+                "discounted_price": 23.67
+            },
+            {
+                "name": "Product_57",
+                "original_price": 49.96,
+                "discounted_price": 41.9664
+            },
+            {
+                "name": "Product_73",
+                "original_price": 12.14,
+                "discounted_price": 10.1976
+            },
+            {
+                "name": "Product_39",
+                "original_price": 92.94,
+                "discounted_price": 92.94
+            },
+            {
+                "name": "Product_3",
+                "original_price": 40.6,
+                "discounted_price": 40.6
+            },
+            {
+                "name": "Product_35",
+                "original_price": 77.06,
+                "discounted_price": 77.06
+            }
+        ],
+        "total_price": 484.34000000000003,
+        "total_amount_spent": 407.63772000000006,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_40",
+        "products": [
+            {
+                "name": "Product_59",
+                "original_price": 35.54,
+                "discounted_price": 29.498199999999997
+            },
+            {
+                "name": "Product_11",
+                "original_price": 96.03,
+                "discounted_price": 96.03
+            },
+            {
+                "name": "Product_4",
+                "original_price": 86.7,
+                "discounted_price": 86.7
+            }
+        ],
+        "total_price": 218.27,
+        "total_amount_spent": 212.22820000000002,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_41",
+        "products": [
+            {
+                "name": "Product_53",
+                "original_price": 51.15,
+                "discounted_price": 36.827999999999996
+            }
+        ],
+        "total_price": 51.15,
+        "total_amount_spent": 33.145199999999996,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_42",
+        "products": [
+            {
+                "name": "Product_3",
+                "original_price": 40.6,
+                "discounted_price": 40.6
+            },
+            {
+                "name": "Product_34",
+                "original_price": 9.66,
+                "discounted_price": 9.66
+            },
+            {
+                "name": "Product_29",
+                "original_price": 46.97,
+                "discounted_price": 33.8184
+            },
+            {
+                "name": "Product_21",
+                "original_price": 29.4,
+                "discounted_price": 29.4
+            },
+            {
+                "name": "Product_20",
+                "original_price": 28.62,
+                "discounted_price": 28.62
+            }
+        ],
+        "total_price": 155.25,
+        "total_amount_spent": 142.0984,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_43",
+        "products": [
+            {
+                "name": "Product_20",
+                "original_price": 28.62,
+                "discounted_price": 28.62
+            },
+            {
+                "name": "Product_14",
+                "original_price": 57.66,
+                "discounted_price": 57.66
+            },
+            {
+                "name": "Product_87",
+                "original_price": 75.01,
+                "discounted_price": 75.01
+            },
+            {
+                "name": "Product_51",
+                "original_price": 89.75,
+                "discounted_price": 89.75
+            },
+            {
+                "name": "Product_84",
+                "original_price": 22.53,
+                "discounted_price": 22.53
+            },
+            {
+                "name": "Product_78",
+                "original_price": 66.38,
+                "discounted_price": 55.75919999999999
+            },
+            {
+                "name": "Product_2",
+                "original_price": 22.35,
+                "discounted_price": 18.774
+            },
+            {
+                "name": "Product_12",
+                "original_price": 38.15,
+                "discounted_price": 38.15
+            },
+            {
+                "name": "Product_66",
+                "original_price": 56.05,
+                "discounted_price": 47.081999999999994
+            },
+            {
+                "name": "Product_61",
+                "original_price": 28.56,
+                "discounted_price": 28.56
+            }
+        ],
+        "total_price": 485.06,
+        "total_amount_spent": 461.8952,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_44",
+        "products": [
+            {
+                "name": "Product_8",
+                "original_price": 6.56,
+                "discounted_price": 5.5104
+            },
+            {
+                "name": "Product_42",
+                "original_price": 74.25,
+                "discounted_price": 62.37
+            },
+            {
+                "name": "Product_16",
+                "original_price": 51.12,
+                "discounted_price": 51.12
+            },
+            {
+                "name": "Product_13",
+                "original_price": 32.27,
+                "discounted_price": 27.106800000000003
+            },
+            {
+                "name": "Product_49",
+                "original_price": 21.46,
+                "discounted_price": 15.4512
+            },
+            {
+                "name": "Product_50",
+                "original_price": 93.8,
+                "discounted_price": 93.8
+            }
+        ],
+        "total_price": 279.46,
+        "total_amount_spent": 229.82255999999998,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_45",
+        "products": [
+            {
+                "name": "Product_27",
+                "original_price": 76.2,
+                "discounted_price": 76.2
+            },
+            {
+                "name": "Product_5",
+                "original_price": 70.14,
+                "discounted_price": 70.14
+            },
+            {
+                "name": "Product_73",
+                "original_price": 12.14,
+                "discounted_price": 10.1976
+            },
+            {
+                "name": "Product_37",
+                "original_price": 33.27,
+                "discounted_price": 23.9544
+            },
+            {
+                "name": "Product_4",
+                "original_price": 86.7,
+                "discounted_price": 86.7
+            }
+        ],
+        "total_price": 278.45,
+        "total_amount_spent": 240.4728,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_46",
+        "products": [
+            {
+                "name": "Product_61",
+                "original_price": 28.56,
+                "discounted_price": 28.56
+            },
+            {
+                "name": "Product_9",
+                "original_price": 94.4,
+                "discounted_price": 94.4
+            },
+            {
+                "name": "Product_68",
+                "original_price": 77.73,
+                "discounted_price": 65.2932
+            },
+            {
+                "name": "Product_33",
+                "original_price": 68.61,
+                "discounted_price": 68.61
+            }
+        ],
+        "total_price": 269.3,
+        "total_amount_spent": 231.17688,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_47",
+        "products": [
+            {
+                "name": "Product_5",
+                "original_price": 70.14,
+                "discounted_price": 70.14
+            }
+        ],
+        "total_price": 70.14,
+        "total_amount_spent": 63.126000000000005,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_48",
+        "products": [
+            {
+                "name": "Product_60",
+                "original_price": 26.48,
+                "discounted_price": 26.48
+            },
+            {
+                "name": "Product_21",
+                "original_price": 29.4,
+                "discounted_price": 29.4
+            },
+            {
+                "name": "Product_52",
+                "original_price": 61.66,
+                "discounted_price": 44.395199999999996
+            },
+            {
+                "name": "Product_44",
+                "original_price": 23.67,
+                "discounted_price": 23.67
+            },
+            {
+                "name": "Product_7",
+                "original_price": 75.03,
+                "discounted_price": 54.0216
+            },
+            {
+                "name": "Product_75",
+                "original_price": 78.98,
+                "discounted_price": 56.8656
+            },
+            {
+                "name": "Product_90",
+                "original_price": 52.99,
+                "discounted_price": 38.1528
+            },
+            {
+                "name": "Product_96",
+                "original_price": 54.69,
+                "discounted_price": 45.9396
+            },
+            {
+                "name": "Product_34",
+                "original_price": 9.66,
+                "discounted_price": 9.66
+            }
+        ],
+        "total_price": 412.56,
+        "total_amount_spent": 295.72632,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_49",
+        "products": [
+            {
+                "name": "Product_25",
+                "original_price": 7.87,
+                "discounted_price": 7.87
+            },
+            {
+                "name": "Product_4",
+                "original_price": 86.7,
+                "discounted_price": 86.7
+            },
+            {
+                "name": "Product_81",
+                "original_price": 52.41,
+                "discounted_price": 52.41
+            },
+            {
+                "name": "Product_49",
+                "original_price": 21.46,
+                "discounted_price": 15.4512
+            },
+            {
+                "name": "Product_27",
+                "original_price": 76.2,
+                "discounted_price": 76.2
+            },
+            {
+                "name": "Product_74",
+                "original_price": 85.73,
+                "discounted_price": 61.7256
+            },
+            {
+                "name": "Product_79",
+                "original_price": 21.17,
+                "discounted_price": 15.2424
+            },
+            {
+                "name": "Product_69",
+                "original_price": 40.86,
+                "discounted_price": 40.86
+            },
+            {
+                "name": "Product_2",
+                "original_price": 22.35,
+                "discounted_price": 18.774
+            },
+            {
+                "name": "Product_94",
+                "original_price": 92.02,
+                "discounted_price": 92.02
+            }
+        ],
+        "total_price": 506.77,
+        "total_amount_spent": 420.52788,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_50",
+        "products": [
+            {
+                "name": "Product_5",
+                "original_price": 70.14,
+                "discounted_price": 70.14
+            },
+            {
+                "name": "Product_12",
+                "original_price": 38.15,
+                "discounted_price": 38.15
+            },
+            {
+                "name": "Product_90",
+                "original_price": 52.99,
+                "discounted_price": 38.1528
+            }
+        ],
+        "total_price": 161.28,
+        "total_amount_spent": 131.79852,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_51",
+        "products": [
+            {
+                "name": "Product_24",
+                "original_price": 9.4,
+                "discounted_price": 9.4
+            },
+            {
+                "name": "Product_89",
+                "original_price": 81.01,
+                "discounted_price": 81.01
+            },
+            {
+                "name": "Product_49",
+                "original_price": 21.46,
+                "discounted_price": 15.4512
+            },
+            {
+                "name": "Product_72",
+                "original_price": 85.31,
+                "discounted_price": 71.6604
+            },
+            {
+                "name": "Product_58",
+                "original_price": 12.39,
+                "discounted_price": 10.4076
+            },
+            {
+                "name": "Product_12",
+                "original_price": 38.15,
+                "discounted_price": 38.15
+            },
+            {
+                "name": "Product_20",
+                "original_price": 28.62,
+                "discounted_price": 28.62
+            },
+            {
+                "name": "Product_40",
+                "original_price": 15.65,
+                "discounted_price": 15.65
+            },
+            {
+                "name": "Product_17",
+                "original_price": 53.87,
+                "discounted_price": 53.87
+            },
+            {
+                "name": "Product_23",
+                "original_price": 35.6,
+                "discounted_price": 35.6
+            }
+        ],
+        "total_price": 381.46000000000004,
+        "total_amount_spent": 323.83728,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_52",
+        "products": [
+            {
+                "name": "Product_41",
+                "original_price": 76.64,
+                "discounted_price": 64.3776
+            },
+            {
+                "name": "Product_76",
+                "original_price": 16.23,
+                "discounted_price": 11.685599999999999
+            },
+            {
+                "name": "Product_79",
+                "original_price": 21.17,
+                "discounted_price": 15.2424
+            },
+            {
+                "name": "Product_57",
+                "original_price": 49.96,
+                "discounted_price": 41.9664
+            },
+            {
+                "name": "Product_22",
+                "original_price": 83.36,
+                "discounted_price": 70.02239999999999
+            },
+            {
+                "name": "Product_77",
+                "original_price": 43.42,
+                "discounted_price": 36.4728
+            },
+            {
+                "name": "Product_39",
+                "original_price": 92.94,
+                "discounted_price": 92.94
+            }
+        ],
+        "total_price": 383.72,
+        "total_amount_spent": 332.7072,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_53",
+        "products": [
+            {
+                "name": "Product_71",
+                "original_price": 16.54,
+                "discounted_price": 13.8936
+            },
+            {
+                "name": "Product_6",
+                "original_price": 32.25,
+                "discounted_price": 32.25
+            },
+            {
+                "name": "Product_12",
+                "original_price": 38.15,
+                "discounted_price": 38.15
+            }
+        ],
+        "total_price": 86.94,
+        "total_amount_spent": 75.86424,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_54",
+        "products": [
+            {
+                "name": "Product_3",
+                "original_price": 40.6,
+                "discounted_price": 40.6
+            },
+            {
+                "name": "Product_47",
+                "original_price": 35.23,
+                "discounted_price": 29.593199999999996
+            }
+        ],
+        "total_price": 75.83,
+        "total_amount_spent": 63.17387999999999,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_55",
+        "products": [
+            {
+                "name": "Product_67",
+                "original_price": 44.91,
+                "discounted_price": 44.91
+            },
+            {
+                "name": "Product_2",
+                "original_price": 22.35,
+                "discounted_price": 18.774
+            },
+            {
+                "name": "Product_6",
+                "original_price": 32.25,
+                "discounted_price": 32.25
+            },
+            {
+                "name": "Product_45",
+                "original_price": 88.75,
+                "discounted_price": 88.75
+            }
+        ],
+        "total_price": 188.26,
+        "total_amount_spent": 166.2156,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_56",
+        "products": [
+            {
+                "name": "Product_65",
+                "original_price": 38.76,
+                "discounted_price": 38.76
+            },
+            {
+                "name": "Product_96",
+                "original_price": 54.69,
+                "discounted_price": 45.9396
+            },
+            {
+                "name": "Product_33",
+                "original_price": 68.61,
+                "discounted_price": 68.61
+            },
+            {
+                "name": "Product_25",
+                "original_price": 7.87,
+                "discounted_price": 7.87
+            }
+        ],
+        "total_price": 169.93,
+        "total_amount_spent": 145.06164,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_57",
+        "products": [
+            {
+                "name": "Product_20",
+                "original_price": 28.62,
+                "discounted_price": 28.62
+            },
+            {
+                "name": "Product_46",
+                "original_price": 79.05,
+                "discounted_price": 79.05
+            },
+            {
+                "name": "Product_59",
+                "original_price": 35.54,
+                "discounted_price": 29.498199999999997
+            }
+        ],
+        "total_price": 143.21,
+        "total_amount_spent": 123.45138000000001,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_58",
+        "products": [
+            {
+                "name": "Product_87",
+                "original_price": 75.01,
+                "discounted_price": 75.01
+            },
+            {
+                "name": "Product_13",
+                "original_price": 32.27,
+                "discounted_price": 27.106800000000003
+            },
+            {
+                "name": "Product_73",
+                "original_price": 12.14,
+                "discounted_price": 10.1976
+            },
+            {
+                "name": "Product_45",
+                "original_price": 88.75,
+                "discounted_price": 88.75
+            },
+            {
+                "name": "Product_44",
+                "original_price": 23.67,
+                "discounted_price": 23.67
+            },
+            {
+                "name": "Product_69",
+                "original_price": 40.86,
+                "discounted_price": 40.86
+            },
+            {
+                "name": "Product_7",
+                "original_price": 75.03,
+                "discounted_price": 54.0216
+            },
+            {
+                "name": "Product_28",
+                "original_price": 9.36,
+                "discounted_price": 9.36
+            }
+        ],
+        "total_price": 357.09000000000003,
+        "total_amount_spent": 328.976,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_59",
+        "products": [
+            {
+                "name": "Product_57",
+                "original_price": 49.96,
+                "discounted_price": 41.9664
+            },
+            {
+                "name": "Product_76",
+                "original_price": 16.23,
+                "discounted_price": 11.685599999999999
+            },
+            {
+                "name": "Product_28",
+                "original_price": 9.36,
+                "discounted_price": 9.36
+            },
+            {
+                "name": "Product_96",
+                "original_price": 54.69,
+                "discounted_price": 45.9396
+            },
+            {
+                "name": "Product_55",
+                "original_price": 76.69,
+                "discounted_price": 55.2168
+            },
+            {
+                "name": "Product_39",
+                "original_price": 92.94,
+                "discounted_price": 92.94
+            },
+            {
+                "name": "Product_99",
+                "original_price": 46.88,
+                "discounted_price": 46.88
+            }
+        ],
+        "total_price": 346.75,
+        "total_amount_spent": 273.58955999999995,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_60",
+        "products": [
+            {
+                "name": "Product_62",
+                "original_price": 98.43,
+                "discounted_price": 98.43
+            },
+            {
+                "name": "Product_52",
+                "original_price": 61.66,
+                "discounted_price": 44.395199999999996
+            }
+        ],
+        "total_price": 160.09,
+        "total_amount_spent": 128.54268,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_61",
+        "products": [
+            {
+                "name": "Product_11",
+                "original_price": 96.03,
+                "discounted_price": 96.03
+            },
+            {
+                "name": "Product_48",
+                "original_price": 27.81,
+                "discounted_price": 20.0232
+            },
+            {
+                "name": "Product_86",
+                "original_price": 20.0,
+                "discounted_price": 14.399999999999999
+            },
+            {
+                "name": "Product_83",
+                "original_price": 82.5,
+                "discounted_price": 82.5
+            },
+            {
+                "name": "Product_36",
+                "original_price": 16.0,
+                "discounted_price": 16.0
+            },
+            {
+                "name": "Product_77",
+                "original_price": 43.42,
+                "discounted_price": 36.4728
+            },
+            {
+                "name": "Product_67",
+                "original_price": 44.91,
+                "discounted_price": 44.91
+            }
+        ],
+        "total_price": 330.67,
+        "total_amount_spent": 279.30240000000003,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_62",
+        "products": [
+            {
+                "name": "Product_97",
+                "original_price": 92.14,
+                "discounted_price": 92.14
+            }
+        ],
+        "total_price": 92.14,
+        "total_amount_spent": 82.926,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_63",
+        "products": [
+            {
+                "name": "Product_72",
+                "original_price": 85.31,
+                "discounted_price": 71.6604
+            },
+            {
+                "name": "Product_88",
+                "original_price": 29.99,
+                "discounted_price": 21.592799999999997
+            },
+            {
+                "name": "Product_55",
+                "original_price": 76.69,
+                "discounted_price": 55.2168
+            },
+            {
+                "name": "Product_4",
+                "original_price": 86.7,
+                "discounted_price": 86.7
+            },
+            {
+                "name": "Product_93",
+                "original_price": 34.42,
+                "discounted_price": 28.9128
+            },
+            {
+                "name": "Product_43",
+                "original_price": 15.11,
+                "discounted_price": 10.879199999999999
+            },
+            {
+                "name": "Product_10",
+                "original_price": 30.1,
+                "discounted_price": 21.672
+            },
+            {
+                "name": "Product_67",
+                "original_price": 44.91,
+                "discounted_price": 44.91
+            },
+            {
+                "name": "Product_11",
+                "original_price": 96.03,
+                "discounted_price": 96.03
+            }
+        ],
+        "total_price": 499.26,
+        "total_amount_spent": 437.57400000000007,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_64",
+        "products": [
+            {
+                "name": "Product_85",
+                "original_price": 46.22,
+                "discounted_price": 38.824799999999996
+            },
+            {
+                "name": "Product_95",
+                "original_price": 73.95,
+                "discounted_price": 53.244
+            },
+            {
+                "name": "Product_0",
+                "original_price": 90.01,
+                "discounted_price": 90.01
+            },
+            {
+                "name": "Product_40",
+                "original_price": 15.65,
+                "discounted_price": 15.65
+            },
+            {
+                "name": "Product_93",
+                "original_price": 34.42,
+                "discounted_price": 28.9128
+            },
+            {
+                "name": "Product_46",
+                "original_price": 79.05,
+                "discounted_price": 79.05
+            },
+            {
+                "name": "Product_22",
+                "original_price": 83.36,
+                "discounted_price": 70.02239999999999
+            },
+            {
+                "name": "Product_24",
+                "original_price": 9.4,
+                "discounted_price": 9.4
+            },
+            {
+                "name": "Product_9",
+                "original_price": 94.4,
+                "discounted_price": 94.4
+            },
+            {
+                "name": "Product_6",
+                "original_price": 32.25,
+                "discounted_price": 32.25
+            }
+        ],
+        "total_price": 558.71,
+        "total_amount_spent": 460.5876,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_65",
+        "products": [
+            {
+                "name": "Product_41",
+                "original_price": 76.64,
+                "discounted_price": 64.3776
+            },
+            {
+                "name": "Product_14",
+                "original_price": 57.66,
+                "discounted_price": 57.66
+            },
+            {
+                "name": "Product_60",
+                "original_price": 26.48,
+                "discounted_price": 26.48
+            },
+            {
+                "name": "Product_82",
+                "original_price": 77.91,
+                "discounted_price": 77.91
+            },
+            {
+                "name": "Product_51",
+                "original_price": 89.75,
+                "discounted_price": 89.75
+            },
+            {
+                "name": "Product_42",
+                "original_price": 74.25,
+                "discounted_price": 62.37
+            },
+            {
+                "name": "Product_29",
+                "original_price": 46.97,
+                "discounted_price": 33.8184
+            }
+        ],
+        "total_price": 449.65999999999997,
+        "total_amount_spent": 371.1294,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_66",
+        "products": [
+            {
+                "name": "Product_33",
+                "original_price": 68.61,
+                "discounted_price": 68.61
+            },
+            {
+                "name": "Product_64",
+                "original_price": 32.19,
+                "discounted_price": 32.19
+            },
+            {
+                "name": "Product_97",
+                "original_price": 92.14,
+                "discounted_price": 92.14
+            },
+            {
+                "name": "Product_63",
+                "original_price": 63.1,
+                "discounted_price": 63.1
+            },
+            {
+                "name": "Product_50",
+                "original_price": 93.8,
+                "discounted_price": 93.8
+            },
+            {
+                "name": "Product_44",
+                "original_price": 23.67,
+                "discounted_price": 23.67
+            },
+            {
+                "name": "Product_68",
+                "original_price": 77.73,
+                "discounted_price": 65.2932
+            }
+        ],
+        "total_price": 451.24,
+        "total_amount_spent": 438.80320000000006,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_67",
+        "products": [
+            {
+                "name": "Product_77",
+                "original_price": 43.42,
+                "discounted_price": 36.4728
+            },
+            {
+                "name": "Product_55",
+                "original_price": 76.69,
+                "discounted_price": 55.2168
+            },
+            {
+                "name": "Product_95",
+                "original_price": 73.95,
+                "discounted_price": 53.244
+            },
+            {
+                "name": "Product_65",
+                "original_price": 38.76,
+                "discounted_price": 38.76
+            }
+        ],
+        "total_price": 232.82,
+        "total_amount_spent": 183.6936,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_68",
+        "products": [
+            {
+                "name": "Product_94",
+                "original_price": 92.02,
+                "discounted_price": 92.02
+            },
+            {
+                "name": "Product_74",
+                "original_price": 85.73,
+                "discounted_price": 61.7256
+            },
+            {
+                "name": "Product_3",
+                "original_price": 40.6,
+                "discounted_price": 40.6
+            },
+            {
+                "name": "Product_93",
+                "original_price": 34.42,
+                "discounted_price": 28.9128
+            },
+            {
+                "name": "Product_87",
+                "original_price": 75.01,
+                "discounted_price": 75.01
+            },
+            {
+                "name": "Product_27",
+                "original_price": 76.2,
+                "discounted_price": 76.2
+            }
+        ],
+        "total_price": 403.98,
+        "total_amount_spent": 374.4684,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_69",
+        "products": [
+            {
+                "name": "Product_17",
+                "original_price": 53.87,
+                "discounted_price": 53.87
+            },
+            {
+                "name": "Product_31",
+                "original_price": 67.91,
+                "discounted_price": 67.91
+            },
+            {
+                "name": "Product_19",
+                "original_price": 60.71,
+                "discounted_price": 60.71
+            },
+            {
+                "name": "Product_57",
+                "original_price": 49.96,
+                "discounted_price": 41.9664
+            },
+            {
+                "name": "Product_10",
+                "original_price": 30.1,
+                "discounted_price": 21.672
+            },
+            {
+                "name": "Product_96",
+                "original_price": 54.69,
+                "discounted_price": 45.9396
+            },
+            {
+                "name": "Product_87",
+                "original_price": 75.01,
+                "discounted_price": 75.01
+            },
+            {
+                "name": "Product_89",
+                "original_price": 81.01,
+                "discounted_price": 81.01
+            },
+            {
+                "name": "Product_24",
+                "original_price": 9.4,
+                "discounted_price": 9.4
+            }
+        ],
+        "total_price": 482.66,
+        "total_amount_spent": 457.48799999999994,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_70",
+        "products": [
+            {
+                "name": "Product_55",
+                "original_price": 76.69,
+                "discounted_price": 55.2168
+            }
+        ],
+        "total_price": 76.69,
+        "total_amount_spent": 55.2168,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_71",
+        "products": [
+            {
+                "name": "Product_89",
+                "original_price": 81.01,
+                "discounted_price": 81.01
+            },
+            {
+                "name": "Product_99",
+                "original_price": 46.88,
+                "discounted_price": 46.88
+            },
+            {
+                "name": "Product_43",
+                "original_price": 15.11,
+                "discounted_price": 10.879199999999999
+            },
+            {
+                "name": "Product_18",
+                "original_price": 92.12,
+                "discounted_price": 66.3264
+            },
+            {
+                "name": "Product_3",
+                "original_price": 40.6,
+                "discounted_price": 40.6
+            },
+            {
+                "name": "Product_7",
+                "original_price": 75.03,
+                "discounted_price": 54.0216
+            },
+            {
+                "name": "Product_2",
+                "original_price": 22.35,
+                "discounted_price": 18.774
+            },
+            {
+                "name": "Product_19",
+                "original_price": 60.71,
+                "discounted_price": 60.71
+            },
+            {
+                "name": "Product_33",
+                "original_price": 68.61,
+                "discounted_price": 68.61
+            },
+            {
+                "name": "Product_27",
+                "original_price": 76.2,
+                "discounted_price": 76.2
+            }
+        ],
+        "total_price": 578.62,
+        "total_amount_spent": 471.61008000000004,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_72",
+        "products": [
+            {
+                "name": "Product_69",
+                "original_price": 40.86,
+                "discounted_price": 40.86
+            },
+            {
+                "name": "Product_39",
+                "original_price": 92.94,
+                "discounted_price": 92.94
+            },
+            {
+                "name": "Product_13",
+                "original_price": 32.27,
+                "discounted_price": 27.106800000000003
+            },
+            {
+                "name": "Product_49",
+                "original_price": 21.46,
+                "discounted_price": 15.4512
+            }
+        ],
+        "total_price": 187.53,
+        "total_amount_spent": 176.358,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_73",
+        "products": [
+            {
+                "name": "Product_85",
+                "original_price": 46.22,
+                "discounted_price": 38.824799999999996
+            }
+        ],
+        "total_price": 46.22,
+        "total_amount_spent": 34.942319999999995,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_74",
+        "products": [
+            {
+                "name": "Product_3",
+                "original_price": 40.6,
+                "discounted_price": 40.6
+            },
+            {
+                "name": "Product_82",
+                "original_price": 77.91,
+                "discounted_price": 77.91
+            },
+            {
+                "name": "Product_43",
+                "original_price": 15.11,
+                "discounted_price": 10.879199999999999
+            },
+            {
+                "name": "Product_69",
+                "original_price": 40.86,
+                "discounted_price": 40.86
+            },
+            {
+                "name": "Product_29",
+                "original_price": 46.97,
+                "discounted_price": 33.8184
+            }
+        ],
+        "total_price": 221.45,
+        "total_amount_spent": 183.66083999999998,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_75",
+        "products": [
+            {
+                "name": "Product_71",
+                "original_price": 16.54,
+                "discounted_price": 13.8936
+            }
+        ],
+        "total_price": 16.54,
+        "total_amount_spent": 12.50424,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_76",
+        "products": [
+            {
+                "name": "Product_26",
+                "original_price": 96.19,
+                "discounted_price": 96.19
+            },
+            {
+                "name": "Product_9",
+                "original_price": 94.4,
+                "discounted_price": 94.4
+            },
+            {
+                "name": "Product_17",
+                "original_price": 53.87,
+                "discounted_price": 53.87
+            },
+            {
+                "name": "Product_92",
+                "original_price": 53.41,
+                "discounted_price": 53.41
+            },
+            {
+                "name": "Product_39",
+                "original_price": 92.94,
+                "discounted_price": 92.94
+            },
+            {
+                "name": "Product_16",
+                "original_price": 51.12,
+                "discounted_price": 51.12
+            },
+            {
+                "name": "Product_72",
+                "original_price": 85.31,
+                "discounted_price": 71.6604
+            },
+            {
+                "name": "Product_46",
+                "original_price": 79.05,
+                "discounted_price": 79.05
+            },
+            {
+                "name": "Product_38",
+                "original_price": 28.75,
+                "discounted_price": 28.75
+            },
+            {
+                "name": "Product_89",
+                "original_price": 81.01,
+                "discounted_price": 81.01
+            }
+        ],
+        "total_price": 716.05,
+        "total_amount_spent": 702.4004,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_77",
+        "products": [
+            {
+                "name": "Product_62",
+                "original_price": 98.43,
+                "discounted_price": 98.43
+            },
+            {
+                "name": "Product_5",
+                "original_price": 70.14,
+                "discounted_price": 70.14
+            },
+            {
+                "name": "Product_89",
+                "original_price": 81.01,
+                "discounted_price": 81.01
+            },
+            {
+                "name": "Product_83",
+                "original_price": 82.5,
+                "discounted_price": 82.5
+            },
+            {
+                "name": "Product_26",
+                "original_price": 96.19,
+                "discounted_price": 96.19
+            },
+            {
+                "name": "Product_85",
+                "original_price": 46.22,
+                "discounted_price": 38.824799999999996
+            },
+            {
+                "name": "Product_92",
+                "original_price": 53.41,
+                "discounted_price": 53.41
+            }
+        ],
+        "total_price": 527.9,
+        "total_amount_spent": 520.5047999999999,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_78",
+        "products": [
+            {
+                "name": "Product_44",
+                "original_price": 23.67,
+                "discounted_price": 23.67
+            },
+            {
+                "name": "Product_96",
+                "original_price": 54.69,
+                "discounted_price": 45.9396
+            },
+            {
+                "name": "Product_13",
+                "original_price": 32.27,
+                "discounted_price": 27.106800000000003
+            }
+        ],
+        "total_price": 110.63,
+        "total_amount_spent": 96.71640000000001,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_79",
+        "products": [
+            {
+                "name": "Product_17",
+                "original_price": 53.87,
+                "discounted_price": 53.87
+            },
+            {
+                "name": "Product_3",
+                "original_price": 40.6,
+                "discounted_price": 40.6
+            },
+            {
+                "name": "Product_24",
+                "original_price": 9.4,
+                "discounted_price": 9.4
+            },
+            {
+                "name": "Product_85",
+                "original_price": 46.22,
+                "discounted_price": 38.824799999999996
+            }
+        ],
+        "total_price": 150.09,
+        "total_amount_spent": 128.42532,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_80",
+        "products": [
+            {
+                "name": "Product_97",
+                "original_price": 92.14,
+                "discounted_price": 92.14
+            },
+            {
+                "name": "Product_91",
+                "original_price": 87.4,
+                "discounted_price": 62.928000000000004
+            },
+            {
+                "name": "Product_50",
+                "original_price": 93.8,
+                "discounted_price": 93.8
+            },
+            {
+                "name": "Product_10",
+                "original_price": 30.1,
+                "discounted_price": 21.672
+            },
+            {
+                "name": "Product_21",
+                "original_price": 29.4,
+                "discounted_price": 29.4
+            },
+            {
+                "name": "Product_22",
+                "original_price": 83.36,
+                "discounted_price": 70.02239999999999
+            },
+            {
+                "name": "Product_32",
+                "original_price": 19.0,
+                "discounted_price": 15.959999999999999
+            }
+        ],
+        "total_price": 435.2,
+        "total_amount_spent": 347.33016,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_81",
+        "products": [
+            {
+                "name": "Product_57",
+                "original_price": 49.96,
+                "discounted_price": 41.9664
+            },
+            {
+                "name": "Product_60",
+                "original_price": 26.48,
+                "discounted_price": 26.48
+            },
+            {
+                "name": "Product_51",
+                "original_price": 89.75,
+                "discounted_price": 89.75
+            },
+            {
+                "name": "Product_3",
+                "original_price": 40.6,
+                "discounted_price": 40.6
+            },
+            {
+                "name": "Product_16",
+                "original_price": 51.12,
+                "discounted_price": 51.12
+            },
+            {
+                "name": "Product_7",
+                "original_price": 75.03,
+                "discounted_price": 54.0216
+            },
+            {
+                "name": "Product_0",
+                "original_price": 90.01,
+                "discounted_price": 90.01
+            },
+            {
+                "name": "Product_45",
+                "original_price": 88.75,
+                "discounted_price": 88.75
+            }
+        ],
+        "total_price": 511.7,
+        "total_amount_spent": 434.4282,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_82",
+        "products": [
+            {
+                "name": "Product_87",
+                "original_price": 75.01,
+                "discounted_price": 75.01
+            },
+            {
+                "name": "Product_46",
+                "original_price": 79.05,
+                "discounted_price": 79.05
+            },
+            {
+                "name": "Product_27",
+                "original_price": 76.2,
+                "discounted_price": 76.2
+            },
+            {
+                "name": "Product_52",
+                "original_price": 61.66,
+                "discounted_price": 44.395199999999996
+            },
+            {
+                "name": "Product_16",
+                "original_price": 51.12,
+                "discounted_price": 51.12
+            },
+            {
+                "name": "Product_42",
+                "original_price": 74.25,
+                "discounted_price": 62.37
+            }
+        ],
+        "total_price": 417.29,
+        "total_amount_spent": 388.1452,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_83",
+        "products": [
+            {
+                "name": "Product_98",
+                "original_price": 53.44,
+                "discounted_price": 44.889599999999994
+            },
+            {
+                "name": "Product_78",
+                "original_price": 66.38,
+                "discounted_price": 55.75919999999999
+            },
+            {
+                "name": "Product_69",
+                "original_price": 40.86,
+                "discounted_price": 40.86
+            },
+            {
+                "name": "Product_66",
+                "original_price": 56.05,
+                "discounted_price": 47.081999999999994
+            }
+        ],
+        "total_price": 216.73,
+        "total_amount_spent": 169.73172,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_84",
+        "products": [
+            {
+                "name": "Product_77",
+                "original_price": 43.42,
+                "discounted_price": 36.4728
+            },
+            {
+                "name": "Product_0",
+                "original_price": 90.01,
+                "discounted_price": 90.01
+            }
+        ],
+        "total_price": 133.43,
+        "total_amount_spent": 113.83452,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_85",
+        "products": [
+            {
+                "name": "Product_87",
+                "original_price": 75.01,
+                "discounted_price": 75.01
+            },
+            {
+                "name": "Product_49",
+                "original_price": 21.46,
+                "discounted_price": 15.4512
+            },
+            {
+                "name": "Product_95",
+                "original_price": 73.95,
+                "discounted_price": 53.244
+            },
+            {
+                "name": "Product_43",
+                "original_price": 15.11,
+                "discounted_price": 10.879199999999999
+            },
+            {
+                "name": "Product_35",
+                "original_price": 77.06,
+                "discounted_price": 77.06
+            },
+            {
+                "name": "Product_40",
+                "original_price": 15.65,
+                "discounted_price": 15.65
+            },
+            {
+                "name": "Product_22",
+                "original_price": 83.36,
+                "discounted_price": 70.02239999999999
+            },
+            {
+                "name": "Product_28",
+                "original_price": 9.36,
+                "discounted_price": 9.36
+            },
+            {
+                "name": "Product_83",
+                "original_price": 82.5,
+                "discounted_price": 82.5
+            },
+            {
+                "name": "Product_86",
+                "original_price": 20.0,
+                "discounted_price": 14.399999999999999
+            }
+        ],
+        "total_price": 473.46000000000004,
+        "total_amount_spent": 423.5768,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_86",
+        "products": [
+            {
+                "name": "Product_50",
+                "original_price": 93.8,
+                "discounted_price": 93.8
+            },
+            {
+                "name": "Product_14",
+                "original_price": 57.66,
+                "discounted_price": 57.66
+            },
+            {
+                "name": "Product_40",
+                "original_price": 15.65,
+                "discounted_price": 15.65
+            },
+            {
+                "name": "Product_65",
+                "original_price": 38.76,
+                "discounted_price": 38.76
+            },
+            {
+                "name": "Product_23",
+                "original_price": 35.6,
+                "discounted_price": 35.6
+            }
+        ],
+        "total_price": 241.47,
+        "total_amount_spent": 241.46999999999997,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_87",
+        "products": [
+            {
+                "name": "Product_95",
+                "original_price": 73.95,
+                "discounted_price": 53.244
+            },
+            {
+                "name": "Product_34",
+                "original_price": 9.66,
+                "discounted_price": 9.66
+            },
+            {
+                "name": "Product_22",
+                "original_price": 83.36,
+                "discounted_price": 70.02239999999999
+            },
+            {
+                "name": "Product_96",
+                "original_price": 54.69,
+                "discounted_price": 45.9396
+            },
+            {
+                "name": "Product_43",
+                "original_price": 15.11,
+                "discounted_price": 10.879199999999999
+            }
+        ],
+        "total_price": 236.77,
+        "total_amount_spent": 189.74519999999998,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_88",
+        "products": [
+            {
+                "name": "Product_30",
+                "original_price": 33.35,
+                "discounted_price": 33.35
+            },
+            {
+                "name": "Product_69",
+                "original_price": 40.86,
+                "discounted_price": 40.86
+            },
+            {
+                "name": "Product_61",
+                "original_price": 28.56,
+                "discounted_price": 28.56
+            },
+            {
+                "name": "Product_84",
+                "original_price": 22.53,
+                "discounted_price": 22.53
+            },
+            {
+                "name": "Product_10",
+                "original_price": 30.1,
+                "discounted_price": 21.672
+            },
+            {
+                "name": "Product_88",
+                "original_price": 29.99,
+                "discounted_price": 21.592799999999997
+            }
+        ],
+        "total_price": 185.39,
+        "total_amount_spent": 168.5648,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_89",
+        "products": [
+            {
+                "name": "Product_88",
+                "original_price": 29.99,
+                "discounted_price": 21.592799999999997
+            },
+            {
+                "name": "Product_9",
+                "original_price": 94.4,
+                "discounted_price": 94.4
+            },
+            {
+                "name": "Product_38",
+                "original_price": 28.75,
+                "discounted_price": 28.75
+            },
+            {
+                "name": "Product_49",
+                "original_price": 21.46,
+                "discounted_price": 15.4512
+            },
+            {
+                "name": "Product_58",
+                "original_price": 12.39,
+                "discounted_price": 10.4076
+            },
+            {
+                "name": "Product_48",
+                "original_price": 27.81,
+                "discounted_price": 20.0232
+            },
+            {
+                "name": "Product_31",
+                "original_price": 67.91,
+                "discounted_price": 67.91
+            },
+            {
+                "name": "Product_28",
+                "original_price": 9.36,
+                "discounted_price": 9.36
+            }
+        ],
+        "total_price": 292.07,
+        "total_amount_spent": 241.10532000000003,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_90",
+        "products": [
+            {
+                "name": "Product_61",
+                "original_price": 28.56,
+                "discounted_price": 28.56
+            },
+            {
+                "name": "Product_51",
+                "original_price": 89.75,
+                "discounted_price": 89.75
+            },
+            {
+                "name": "Product_94",
+                "original_price": 92.02,
+                "discounted_price": 92.02
+            }
+        ],
+        "total_price": 210.32999999999998,
+        "total_amount_spent": 210.32999999999998,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_91",
+        "products": [
+            {
+                "name": "Product_38",
+                "original_price": 28.75,
+                "discounted_price": 28.75
+            },
+            {
+                "name": "Product_54",
+                "original_price": 51.45,
+                "discounted_price": 51.45
+            },
+            {
+                "name": "Product_99",
+                "original_price": 46.88,
+                "discounted_price": 46.88
+            },
+            {
+                "name": "Product_51",
+                "original_price": 89.75,
+                "discounted_price": 89.75
+            },
+            {
+                "name": "Product_76",
+                "original_price": 16.23,
+                "discounted_price": 11.685599999999999
+            },
+            {
+                "name": "Product_92",
+                "original_price": 53.41,
+                "discounted_price": 53.41
+            },
+            {
+                "name": "Product_78",
+                "original_price": 66.38,
+                "discounted_price": 55.75919999999999
+            },
+            {
+                "name": "Product_43",
+                "original_price": 15.11,
+                "discounted_price": 10.879199999999999
+            },
+            {
+                "name": "Product_71",
+                "original_price": 16.54,
+                "discounted_price": 13.8936
+            }
+        ],
+        "total_price": 384.5,
+        "total_amount_spent": 362.4576,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_92",
+        "products": [
+            {
+                "name": "Product_85",
+                "original_price": 46.22,
+                "discounted_price": 38.824799999999996
+            },
+            {
+                "name": "Product_88",
+                "original_price": 29.99,
+                "discounted_price": 21.592799999999997
+            },
+            {
+                "name": "Product_80",
+                "original_price": 13.6,
+                "discounted_price": 13.6
+            },
+            {
+                "name": "Product_56",
+                "original_price": 19.1,
+                "discounted_price": 13.752
+            },
+            {
+                "name": "Product_60",
+                "original_price": 26.48,
+                "discounted_price": 26.48
+            },
+            {
+                "name": "Product_45",
+                "original_price": 88.75,
+                "discounted_price": 88.75
+            },
+            {
+                "name": "Product_38",
+                "original_price": 28.75,
+                "discounted_price": 28.75
+            },
+            {
+                "name": "Product_19",
+                "original_price": 60.71,
+                "discounted_price": 60.71
+            }
+        ],
+        "total_price": 313.6,
+        "total_amount_spent": 263.21364,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_93",
+        "products": [
+            {
+                "name": "Product_10",
+                "original_price": 30.1,
+                "discounted_price": 21.672
+            },
+            {
+                "name": "Product_6",
+                "original_price": 32.25,
+                "discounted_price": 32.25
+            },
+            {
+                "name": "Product_67",
+                "original_price": 44.91,
+                "discounted_price": 44.91
+            },
+            {
+                "name": "Product_41",
+                "original_price": 76.64,
+                "discounted_price": 64.3776
+            },
+            {
+                "name": "Product_97",
+                "original_price": 92.14,
+                "discounted_price": 92.14
+            }
+        ],
+        "total_price": 276.04,
+        "total_amount_spent": 229.81464000000003,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_94",
+        "products": [
+            {
+                "name": "Product_81",
+                "original_price": 52.41,
+                "discounted_price": 52.41
+            }
+        ],
+        "total_price": 52.41,
+        "total_amount_spent": 47.169,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_95",
+        "products": [
+            {
+                "name": "Product_33",
+                "original_price": 68.61,
+                "discounted_price": 68.61
+            },
+            {
+                "name": "Product_94",
+                "original_price": 92.02,
+                "discounted_price": 92.02
+            },
+            {
+                "name": "Product_22",
+                "original_price": 83.36,
+                "discounted_price": 70.02239999999999
+            }
+        ],
+        "total_price": 243.99,
+        "total_amount_spent": 207.58716,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_96",
+        "products": [
+            {
+                "name": "Product_81",
+                "original_price": 52.41,
+                "discounted_price": 52.41
+            },
+            {
+                "name": "Product_92",
+                "original_price": 53.41,
+                "discounted_price": 53.41
+            },
+            {
+                "name": "Product_74",
+                "original_price": 85.73,
+                "discounted_price": 61.7256
+            },
+            {
+                "name": "Product_47",
+                "original_price": 35.23,
+                "discounted_price": 29.593199999999996
+            },
+            {
+                "name": "Product_98",
+                "original_price": 53.44,
+                "discounted_price": 44.889599999999994
+            },
+            {
+                "name": "Product_57",
+                "original_price": 49.96,
+                "discounted_price": 41.9664
+            },
+            {
+                "name": "Product_32",
+                "original_price": 19.0,
+                "discounted_price": 15.959999999999999
+            }
+        ],
+        "total_price": 349.18,
+        "total_amount_spent": 269.95932,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_97",
+        "products": [
+            {
+                "name": "Product_49",
+                "original_price": 21.46,
+                "discounted_price": 15.4512
+            },
+            {
+                "name": "Product_55",
+                "original_price": 76.69,
+                "discounted_price": 55.2168
+            },
+            {
+                "name": "Product_58",
+                "original_price": 12.39,
+                "discounted_price": 10.4076
+            },
+            {
+                "name": "Product_13",
+                "original_price": 32.27,
+                "discounted_price": 27.106800000000003
+            },
+            {
+                "name": "Product_19",
+                "original_price": 60.71,
+                "discounted_price": 60.71
+            },
+            {
+                "name": "Product_35",
+                "original_price": 77.06,
+                "discounted_price": 77.06
+            },
+            {
+                "name": "Product_75",
+                "original_price": 78.98,
+                "discounted_price": 56.8656
+            },
+            {
+                "name": "Product_12",
+                "original_price": 38.15,
+                "discounted_price": 38.15
+            }
+        ],
+        "total_price": 397.71000000000004,
+        "total_amount_spent": 306.8712,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_98",
+        "products": [
+            {
+                "name": "Product_7",
+                "original_price": 75.03,
+                "discounted_price": 54.0216
+            },
+            {
+                "name": "Product_45",
+                "original_price": 88.75,
+                "discounted_price": 88.75
+            },
+            {
+                "name": "Product_78",
+                "original_price": 66.38,
+                "discounted_price": 55.75919999999999
+            },
+            {
+                "name": "Product_81",
+                "original_price": 52.41,
+                "discounted_price": 52.41
+            },
+            {
+                "name": "Product_60",
+                "original_price": 26.48,
+                "discounted_price": 26.48
+            },
+            {
+                "name": "Product_27",
+                "original_price": 76.2,
+                "discounted_price": 76.2
+            }
+        ],
+        "total_price": 385.25,
+        "total_amount_spent": 353.6208,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_99",
+        "products": [
+            {
+                "name": "Product_12",
+                "original_price": 38.15,
+                "discounted_price": 38.15
+            },
+            {
+                "name": "Product_35",
+                "original_price": 77.06,
+                "discounted_price": 77.06
+            },
+            {
+                "name": "Product_2",
+                "original_price": 22.35,
+                "discounted_price": 18.774
+            },
+            {
+                "name": "Product_79",
+                "original_price": 21.17,
+                "discounted_price": 15.2424
+            },
+            {
+                "name": "Product_98",
+                "original_price": 53.44,
+                "discounted_price": 44.889599999999994
+            },
+            {
+                "name": "Product_28",
+                "original_price": 9.36,
+                "discounted_price": 9.36
+            },
+            {
+                "name": "Product_74",
+                "original_price": 85.73,
+                "discounted_price": 61.7256
+            },
+            {
+                "name": "Product_11",
+                "original_price": 96.03,
+                "discounted_price": 96.03
+            },
+            {
+                "name": "Product_59",
+                "original_price": 35.54,
+                "discounted_price": 29.498199999999997
+            }
+        ],
+        "total_price": 438.83,
+        "total_amount_spent": 351.65682,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_100",
+        "products": [
+            {
+                "name": "Product_47",
+                "original_price": 35.23,
+                "discounted_price": 29.593199999999996
+            },
+            {
+                "name": "Product_64",
+                "original_price": 32.19,
+                "discounted_price": 32.19
+            }
+        ],
+        "total_price": 67.41999999999999,
+        "total_amount_spent": 55.604879999999994,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_101",
+        "products": [
+            {
+                "name": "Product_92",
+                "original_price": 53.41,
+                "discounted_price": 53.41
+            },
+            {
+                "name": "Product_86",
+                "original_price": 20.0,
+                "discounted_price": 14.399999999999999
+            },
+            {
+                "name": "Product_34",
+                "original_price": 9.66,
+                "discounted_price": 9.66
+            },
+            {
+                "name": "Product_68",
+                "original_price": 77.73,
+                "discounted_price": 65.2932
+            },
+            {
+                "name": "Product_85",
+                "original_price": 46.22,
+                "discounted_price": 38.824799999999996
+            },
+            {
+                "name": "Product_21",
+                "original_price": 29.4,
+                "discounted_price": 29.4
+            },
+            {
+                "name": "Product_26",
+                "original_price": 96.19,
+                "discounted_price": 96.19
+            }
+        ],
+        "total_price": 332.61,
+        "total_amount_spent": 307.178,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_102",
+        "products": [
+            {
+                "name": "Product_23",
+                "original_price": 35.6,
+                "discounted_price": 35.6
+            },
+            {
+                "name": "Product_52",
+                "original_price": 61.66,
+                "discounted_price": 44.395199999999996
+            },
+            {
+                "name": "Product_28",
+                "original_price": 9.36,
+                "discounted_price": 9.36
+            },
+            {
+                "name": "Product_10",
+                "original_price": 30.1,
+                "discounted_price": 21.672
+            },
+            {
+                "name": "Product_16",
+                "original_price": 51.12,
+                "discounted_price": 51.12
+            },
+            {
+                "name": "Product_78",
+                "original_price": 66.38,
+                "discounted_price": 55.75919999999999
+            }
+        ],
+        "total_price": 254.22,
+        "total_amount_spent": 217.9064,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_103",
+        "products": [
+            {
+                "name": "Product_48",
+                "original_price": 27.81,
+                "discounted_price": 20.0232
+            },
+            {
+                "name": "Product_91",
+                "original_price": 87.4,
+                "discounted_price": 62.928000000000004
+            },
+            {
+                "name": "Product_41",
+                "original_price": 76.64,
+                "discounted_price": 64.3776
+            }
+        ],
+        "total_price": 191.85,
+        "total_amount_spent": 147.3288,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_104",
+        "products": [
+            {
+                "name": "Product_94",
+                "original_price": 92.02,
+                "discounted_price": 92.02
+            },
+            {
+                "name": "Product_66",
+                "original_price": 56.05,
+                "discounted_price": 47.081999999999994
+            },
+            {
+                "name": "Product_40",
+                "original_price": 15.65,
+                "discounted_price": 15.65
+            },
+            {
+                "name": "Product_37",
+                "original_price": 33.27,
+                "discounted_price": 23.9544
+            },
+            {
+                "name": "Product_27",
+                "original_price": 76.2,
+                "discounted_price": 76.2
+            },
+            {
+                "name": "Product_56",
+                "original_price": 19.1,
+                "discounted_price": 13.752
+            }
+        ],
+        "total_price": 292.29,
+        "total_amount_spent": 241.79255999999998,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_105",
+        "products": [
+            {
+                "name": "Product_71",
+                "original_price": 16.54,
+                "discounted_price": 13.8936
+            },
+            {
+                "name": "Product_10",
+                "original_price": 30.1,
+                "discounted_price": 21.672
+            }
+        ],
+        "total_price": 46.64,
+        "total_amount_spent": 32.009040000000006,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_106",
+        "products": [
+            {
+                "name": "Product_13",
+                "original_price": 32.27,
+                "discounted_price": 27.106800000000003
+            },
+            {
+                "name": "Product_42",
+                "original_price": 74.25,
+                "discounted_price": 62.37
+            },
+            {
+                "name": "Product_61",
+                "original_price": 28.56,
+                "discounted_price": 28.56
+            },
+            {
+                "name": "Product_23",
+                "original_price": 35.6,
+                "discounted_price": 35.6
+            },
+            {
+                "name": "Product_56",
+                "original_price": 19.1,
+                "discounted_price": 13.752
+            },
+            {
+                "name": "Product_94",
+                "original_price": 92.02,
+                "discounted_price": 92.02
+            },
+            {
+                "name": "Product_65",
+                "original_price": 38.76,
+                "discounted_price": 38.76
+            }
+        ],
+        "total_price": 320.56,
+        "total_amount_spent": 298.1688,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_107",
+        "products": [
+            {
+                "name": "Product_32",
+                "original_price": 19.0,
+                "discounted_price": 15.959999999999999
+            }
+        ],
+        "total_price": 19.0,
+        "total_amount_spent": 14.363999999999999,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_108",
+        "products": [
+            {
+                "name": "Product_78",
+                "original_price": 66.38,
+                "discounted_price": 55.75919999999999
+            },
+            {
+                "name": "Product_73",
+                "original_price": 12.14,
+                "discounted_price": 10.1976
+            },
+            {
+                "name": "Product_18",
+                "original_price": 92.12,
+                "discounted_price": 66.3264
+            },
+            {
+                "name": "Product_40",
+                "original_price": 15.65,
+                "discounted_price": 15.65
+            },
+            {
+                "name": "Product_91",
+                "original_price": 87.4,
+                "discounted_price": 62.928000000000004
+            }
+        ],
+        "total_price": 273.69,
+        "total_amount_spent": 210.8612,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_109",
+        "products": [
+            {
+                "name": "Product_45",
+                "original_price": 88.75,
+                "discounted_price": 88.75
+            }
+        ],
+        "total_price": 88.75,
+        "total_amount_spent": 88.75,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_110",
+        "products": [
+            {
+                "name": "Product_94",
+                "original_price": 92.02,
+                "discounted_price": 92.02
+            },
+            {
+                "name": "Product_3",
+                "original_price": 40.6,
+                "discounted_price": 40.6
+            },
+            {
+                "name": "Product_53",
+                "original_price": 51.15,
+                "discounted_price": 36.827999999999996
+            },
+            {
+                "name": "Product_14",
+                "original_price": 57.66,
+                "discounted_price": 57.66
+            }
+        ],
+        "total_price": 241.43,
+        "total_amount_spent": 227.108,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_111",
+        "products": [
+            {
+                "name": "Product_16",
+                "original_price": 51.12,
+                "discounted_price": 51.12
+            },
+            {
+                "name": "Product_60",
+                "original_price": 26.48,
+                "discounted_price": 26.48
+            },
+            {
+                "name": "Product_92",
+                "original_price": 53.41,
+                "discounted_price": 53.41
+            },
+            {
+                "name": "Product_7",
+                "original_price": 75.03,
+                "discounted_price": 54.0216
+            },
+            {
+                "name": "Product_18",
+                "original_price": 92.12,
+                "discounted_price": 66.3264
+            },
+            {
+                "name": "Product_3",
+                "original_price": 40.6,
+                "discounted_price": 40.6
+            },
+            {
+                "name": "Product_20",
+                "original_price": 28.62,
+                "discounted_price": 28.62
+            },
+            {
+                "name": "Product_55",
+                "original_price": 76.69,
+                "discounted_price": 55.2168
+            }
+        ],
+        "total_price": 444.07,
+        "total_amount_spent": 375.7948,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_112",
+        "products": [
+            {
+                "name": "Product_69",
+                "original_price": 40.86,
+                "discounted_price": 40.86
+            },
+            {
+                "name": "Product_68",
+                "original_price": 77.73,
+                "discounted_price": 65.2932
+            }
+        ],
+        "total_price": 118.59,
+        "total_amount_spent": 106.1532,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_113",
+        "products": [
+            {
+                "name": "Product_84",
+                "original_price": 22.53,
+                "discounted_price": 22.53
+            },
+            {
+                "name": "Product_33",
+                "original_price": 68.61,
+                "discounted_price": 68.61
+            },
+            {
+                "name": "Product_66",
+                "original_price": 56.05,
+                "discounted_price": 47.081999999999994
+            },
+            {
+                "name": "Product_96",
+                "original_price": 54.69,
+                "discounted_price": 45.9396
+            },
+            {
+                "name": "Product_81",
+                "original_price": 52.41,
+                "discounted_price": 52.41
+            },
+            {
+                "name": "Product_57",
+                "original_price": 49.96,
+                "discounted_price": 41.9664
+            },
+            {
+                "name": "Product_15",
+                "original_price": 20.91,
+                "discounted_price": 15.0552
+            },
+            {
+                "name": "Product_23",
+                "original_price": 35.6,
+                "discounted_price": 35.6
+            },
+            {
+                "name": "Product_76",
+                "original_price": 16.23,
+                "discounted_price": 11.685599999999999
+            },
+            {
+                "name": "Product_47",
+                "original_price": 35.23,
+                "discounted_price": 29.593199999999996
+            }
+        ],
+        "total_price": 412.21999999999997,
+        "total_amount_spent": 370.472,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_114",
+        "products": [
+            {
+                "name": "Product_48",
+                "original_price": 27.81,
+                "discounted_price": 20.0232
+            },
+            {
+                "name": "Product_7",
+                "original_price": 75.03,
+                "discounted_price": 54.0216
+            }
+        ],
+        "total_price": 102.84,
+        "total_amount_spent": 74.0448,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_115",
+        "products": [
+            {
+                "name": "Product_50",
+                "original_price": 93.8,
+                "discounted_price": 93.8
+            },
+            {
+                "name": "Product_13",
+                "original_price": 32.27,
+                "discounted_price": 27.106800000000003
+            }
+        ],
+        "total_price": 126.07,
+        "total_amount_spent": 120.9068,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_116",
+        "products": [
+            {
+                "name": "Product_54",
+                "original_price": 51.45,
+                "discounted_price": 51.45
+            },
+            {
+                "name": "Product_0",
+                "original_price": 90.01,
+                "discounted_price": 90.01
+            },
+            {
+                "name": "Product_86",
+                "original_price": 20.0,
+                "discounted_price": 14.399999999999999
+            },
+            {
+                "name": "Product_35",
+                "original_price": 77.06,
+                "discounted_price": 77.06
+            },
+            {
+                "name": "Product_43",
+                "original_price": 15.11,
+                "discounted_price": 10.879199999999999
+            }
+        ],
+        "total_price": 253.63,
+        "total_amount_spent": 243.7992,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_117",
+        "products": [
+            {
+                "name": "Product_68",
+                "original_price": 77.73,
+                "discounted_price": 65.2932
+            },
+            {
+                "name": "Product_88",
+                "original_price": 29.99,
+                "discounted_price": 21.592799999999997
+            },
+            {
+                "name": "Product_73",
+                "original_price": 12.14,
+                "discounted_price": 10.1976
+            }
+        ],
+        "total_price": 119.86,
+        "total_amount_spent": 87.37523999999999,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_118",
+        "products": [
+            {
+                "name": "Product_43",
+                "original_price": 15.11,
+                "discounted_price": 10.879199999999999
+            },
+            {
+                "name": "Product_32",
+                "original_price": 19.0,
+                "discounted_price": 15.959999999999999
+            },
+            {
+                "name": "Product_51",
+                "original_price": 89.75,
+                "discounted_price": 89.75
+            }
+        ],
+        "total_price": 123.86,
+        "total_amount_spent": 116.5892,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_119",
+        "products": [
+            {
+                "name": "Product_28",
+                "original_price": 9.36,
+                "discounted_price": 9.36
+            },
+            {
+                "name": "Product_7",
+                "original_price": 75.03,
+                "discounted_price": 54.0216
+            },
+            {
+                "name": "Product_5",
+                "original_price": 70.14,
+                "discounted_price": 70.14
+            },
+            {
+                "name": "Product_63",
+                "original_price": 63.1,
+                "discounted_price": 63.1
+            },
+            {
+                "name": "Product_90",
+                "original_price": 52.99,
+                "discounted_price": 38.1528
+            },
+            {
+                "name": "Product_15",
+                "original_price": 20.91,
+                "discounted_price": 15.0552
+            }
+        ],
+        "total_price": 291.53000000000003,
+        "total_amount_spent": 224.84664000000004,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_120",
+        "products": [
+            {
+                "name": "Product_10",
+                "original_price": 30.1,
+                "discounted_price": 21.672
+            },
+            {
+                "name": "Product_77",
+                "original_price": 43.42,
+                "discounted_price": 36.4728
+            },
+            {
+                "name": "Product_60",
+                "original_price": 26.48,
+                "discounted_price": 26.48
+            },
+            {
+                "name": "Product_46",
+                "original_price": 79.05,
+                "discounted_price": 79.05
+            },
+            {
+                "name": "Product_36",
+                "original_price": 16.0,
+                "discounted_price": 16.0
+            },
+            {
+                "name": "Product_14",
+                "original_price": 57.66,
+                "discounted_price": 57.66
+            }
+        ],
+        "total_price": 252.71,
+        "total_amount_spent": 213.60132000000002,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_121",
+        "products": [
+            {
+                "name": "Product_30",
+                "original_price": 33.35,
+                "discounted_price": 33.35
+            },
+            {
+                "name": "Product_20",
+                "original_price": 28.62,
+                "discounted_price": 28.62
+            },
+            {
+                "name": "Product_77",
+                "original_price": 43.42,
+                "discounted_price": 36.4728
+            },
+            {
+                "name": "Product_36",
+                "original_price": 16.0,
+                "discounted_price": 16.0
+            },
+            {
+                "name": "Product_68",
+                "original_price": 77.73,
+                "discounted_price": 65.2932
+            },
+            {
+                "name": "Product_2",
+                "original_price": 22.35,
+                "discounted_price": 18.774
+            },
+            {
+                "name": "Product_39",
+                "original_price": 92.94,
+                "discounted_price": 92.94
+            }
+        ],
+        "total_price": 314.41,
+        "total_amount_spent": 291.45,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_122",
+        "products": [
+            {
+                "name": "Product_13",
+                "original_price": 32.27,
+                "discounted_price": 27.106800000000003
+            },
+            {
+                "name": "Product_67",
+                "original_price": 44.91,
+                "discounted_price": 44.91
+            },
+            {
+                "name": "Product_77",
+                "original_price": 43.42,
+                "discounted_price": 36.4728
+            },
+            {
+                "name": "Product_80",
+                "original_price": 13.6,
+                "discounted_price": 13.6
+            },
+            {
+                "name": "Product_92",
+                "original_price": 53.41,
+                "discounted_price": 53.41
+            },
+            {
+                "name": "Product_26",
+                "original_price": 96.19,
+                "discounted_price": 96.19
+            },
+            {
+                "name": "Product_95",
+                "original_price": 73.95,
+                "discounted_price": 53.244
+            },
+            {
+                "name": "Product_71",
+                "original_price": 16.54,
+                "discounted_price": 13.8936
+            },
+            {
+                "name": "Product_43",
+                "original_price": 15.11,
+                "discounted_price": 10.879199999999999
+            },
+            {
+                "name": "Product_59",
+                "original_price": 35.54,
+                "discounted_price": 29.498199999999997
+            }
+        ],
+        "total_price": 424.94,
+        "total_amount_spent": 341.28414,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_123",
+        "products": [
+            {
+                "name": "Product_97",
+                "original_price": 92.14,
+                "discounted_price": 92.14
+            },
+            {
+                "name": "Product_82",
+                "original_price": 77.91,
+                "discounted_price": 77.91
+            },
+            {
+                "name": "Product_3",
+                "original_price": 40.6,
+                "discounted_price": 40.6
+            },
+            {
+                "name": "Product_87",
+                "original_price": 75.01,
+                "discounted_price": 75.01
+            },
+            {
+                "name": "Product_89",
+                "original_price": 81.01,
+                "discounted_price": 81.01
+            },
+            {
+                "name": "Product_75",
+                "original_price": 78.98,
+                "discounted_price": 56.8656
+            },
+            {
+                "name": "Product_69",
+                "original_price": 40.86,
+                "discounted_price": 40.86
+            },
+            {
+                "name": "Product_30",
+                "original_price": 33.35,
+                "discounted_price": 33.35
+            },
+            {
+                "name": "Product_55",
+                "original_price": 76.69,
+                "discounted_price": 55.2168
+            }
+        ],
+        "total_price": 596.55,
+        "total_amount_spent": 497.6661600000001,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_124",
+        "products": [
+            {
+                "name": "Product_66",
+                "original_price": 56.05,
+                "discounted_price": 47.081999999999994
+            }
+        ],
+        "total_price": 56.05,
+        "total_amount_spent": 42.373799999999996,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_125",
+        "products": [
+            {
+                "name": "Product_39",
+                "original_price": 92.94,
+                "discounted_price": 92.94
+            },
+            {
+                "name": "Product_38",
+                "original_price": 28.75,
+                "discounted_price": 28.75
+            }
+        ],
+        "total_price": 121.69,
+        "total_amount_spent": 121.69,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_126",
+        "products": [
+            {
+                "name": "Product_32",
+                "original_price": 19.0,
+                "discounted_price": 15.959999999999999
+            },
+            {
+                "name": "Product_91",
+                "original_price": 87.4,
+                "discounted_price": 62.928000000000004
+            },
+            {
+                "name": "Product_98",
+                "original_price": 53.44,
+                "discounted_price": 44.889599999999994
+            },
+            {
+                "name": "Product_5",
+                "original_price": 70.14,
+                "discounted_price": 70.14
+            },
+            {
+                "name": "Product_24",
+                "original_price": 9.4,
+                "discounted_price": 9.4
+            }
+        ],
+        "total_price": 239.38,
+        "total_amount_spent": 182.98584,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_127",
+        "products": [
+            {
+                "name": "Product_15",
+                "original_price": 20.91,
+                "discounted_price": 15.0552
+            },
+            {
+                "name": "Product_4",
+                "original_price": 86.7,
+                "discounted_price": 86.7
+            },
+            {
+                "name": "Product_88",
+                "original_price": 29.99,
+                "discounted_price": 21.592799999999997
+            },
+            {
+                "name": "Product_42",
+                "original_price": 74.25,
+                "discounted_price": 62.37
+            },
+            {
+                "name": "Product_37",
+                "original_price": 33.27,
+                "discounted_price": 23.9544
+            },
+            {
+                "name": "Product_80",
+                "original_price": 13.6,
+                "discounted_price": 13.6
+            },
+            {
+                "name": "Product_3",
+                "original_price": 40.6,
+                "discounted_price": 40.6
+            },
+            {
+                "name": "Product_22",
+                "original_price": 83.36,
+                "discounted_price": 70.02239999999999
+            },
+            {
+                "name": "Product_46",
+                "original_price": 79.05,
+                "discounted_price": 79.05
+            },
+            {
+                "name": "Product_29",
+                "original_price": 46.97,
+                "discounted_price": 33.8184
+            }
+        ],
+        "total_price": 508.7,
+        "total_amount_spent": 402.08688,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_128",
+        "products": [
+            {
+                "name": "Product_27",
+                "original_price": 76.2,
+                "discounted_price": 76.2
+            }
+        ],
+        "total_price": 76.2,
+        "total_amount_spent": 76.2,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_129",
+        "products": [
+            {
+                "name": "Product_11",
+                "original_price": 96.03,
+                "discounted_price": 96.03
+            },
+            {
+                "name": "Product_81",
+                "original_price": 52.41,
+                "discounted_price": 52.41
+            }
+        ],
+        "total_price": 148.44,
+        "total_amount_spent": 148.44,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_130",
+        "products": [
+            {
+                "name": "Product_91",
+                "original_price": 87.4,
+                "discounted_price": 62.928000000000004
+            },
+            {
+                "name": "Product_79",
+                "original_price": 21.17,
+                "discounted_price": 15.2424
+            },
+            {
+                "name": "Product_22",
+                "original_price": 83.36,
+                "discounted_price": 70.02239999999999
+            },
+            {
+                "name": "Product_48",
+                "original_price": 27.81,
+                "discounted_price": 20.0232
+            },
+            {
+                "name": "Product_85",
+                "original_price": 46.22,
+                "discounted_price": 38.824799999999996
+            },
+            {
+                "name": "Product_57",
+                "original_price": 49.96,
+                "discounted_price": 41.9664
+            },
+            {
+                "name": "Product_42",
+                "original_price": 74.25,
+                "discounted_price": 62.37
+            },
+            {
+                "name": "Product_65",
+                "original_price": 38.76,
+                "discounted_price": 38.76
+            }
+        ],
+        "total_price": 428.93,
+        "total_amount_spent": 315.12348,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_131",
+        "products": [
+            {
+                "name": "Product_17",
+                "original_price": 53.87,
+                "discounted_price": 53.87
+            },
+            {
+                "name": "Product_63",
+                "original_price": 63.1,
+                "discounted_price": 63.1
+            },
+            {
+                "name": "Product_50",
+                "original_price": 93.8,
+                "discounted_price": 93.8
+            },
+            {
+                "name": "Product_51",
+                "original_price": 89.75,
+                "discounted_price": 89.75
+            },
+            {
+                "name": "Product_70",
+                "original_price": 55.58,
+                "discounted_price": 55.58
+            },
+            {
+                "name": "Product_44",
+                "original_price": 23.67,
+                "discounted_price": 23.67
+            },
+            {
+                "name": "Product_73",
+                "original_price": 12.14,
+                "discounted_price": 10.1976
+            },
+            {
+                "name": "Product_12",
+                "original_price": 38.15,
+                "discounted_price": 38.15
+            }
+        ],
+        "total_price": 430.06,
+        "total_amount_spent": 385.30584,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_132",
+        "products": [
+            {
+                "name": "Product_2",
+                "original_price": 22.35,
+                "discounted_price": 18.774
+            },
+            {
+                "name": "Product_83",
+                "original_price": 82.5,
+                "discounted_price": 82.5
+            }
+        ],
+        "total_price": 104.85,
+        "total_amount_spent": 91.1466,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_133",
+        "products": [
+            {
+                "name": "Product_89",
+                "original_price": 81.01,
+                "discounted_price": 81.01
+            },
+            {
+                "name": "Product_58",
+                "original_price": 12.39,
+                "discounted_price": 10.4076
+            }
+        ],
+        "total_price": 93.4,
+        "total_amount_spent": 82.27584,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_134",
+        "products": [
+            {
+                "name": "Product_62",
+                "original_price": 98.43,
+                "discounted_price": 98.43
+            }
+        ],
+        "total_price": 98.43,
+        "total_amount_spent": 98.43,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_135",
+        "products": [
+            {
+                "name": "Product_54",
+                "original_price": 51.45,
+                "discounted_price": 51.45
+            },
+            {
+                "name": "Product_70",
+                "original_price": 55.58,
+                "discounted_price": 55.58
+            },
+            {
+                "name": "Product_37",
+                "original_price": 33.27,
+                "discounted_price": 23.9544
+            },
+            {
+                "name": "Product_9",
+                "original_price": 94.4,
+                "discounted_price": 94.4
+            },
+            {
+                "name": "Product_92",
+                "original_price": 53.41,
+                "discounted_price": 53.41
+            }
+        ],
+        "total_price": 288.11,
+        "total_amount_spent": 278.7944,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_136",
+        "products": [
+            {
+                "name": "Product_24",
+                "original_price": 9.4,
+                "discounted_price": 9.4
+            }
+        ],
+        "total_price": 9.4,
+        "total_amount_spent": 9.4,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_137",
+        "products": [
+            {
+                "name": "Product_42",
+                "original_price": 74.25,
+                "discounted_price": 62.37
+            },
+            {
+                "name": "Product_0",
+                "original_price": 90.01,
+                "discounted_price": 90.01
+            },
+            {
+                "name": "Product_57",
+                "original_price": 49.96,
+                "discounted_price": 41.9664
+            }
+        ],
+        "total_price": 214.22,
+        "total_amount_spent": 194.3464,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_138",
+        "products": [
+            {
+                "name": "Product_89",
+                "original_price": 81.01,
+                "discounted_price": 81.01
+            },
+            {
+                "name": "Product_1",
+                "original_price": 21.28,
+                "discounted_price": 17.8752
+            },
+            {
+                "name": "Product_36",
+                "original_price": 16.0,
+                "discounted_price": 16.0
+            },
+            {
+                "name": "Product_37",
+                "original_price": 33.27,
+                "discounted_price": 23.9544
+            },
+            {
+                "name": "Product_33",
+                "original_price": 68.61,
+                "discounted_price": 68.61
+            },
+            {
+                "name": "Product_91",
+                "original_price": 87.4,
+                "discounted_price": 62.928000000000004
+            },
+            {
+                "name": "Product_44",
+                "original_price": 23.67,
+                "discounted_price": 23.67
+            },
+            {
+                "name": "Product_95",
+                "original_price": 73.95,
+                "discounted_price": 53.244
+            },
+            {
+                "name": "Product_96",
+                "original_price": 54.69,
+                "discounted_price": 45.9396
+            },
+            {
+                "name": "Product_10",
+                "original_price": 30.1,
+                "discounted_price": 21.672
+            }
+        ],
+        "total_price": 489.98,
+        "total_amount_spent": 414.9032,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_139",
+        "products": [
+            {
+                "name": "Product_87",
+                "original_price": 75.01,
+                "discounted_price": 75.01
+            },
+            {
+                "name": "Product_3",
+                "original_price": 40.6,
+                "discounted_price": 40.6
+            },
+            {
+                "name": "Product_59",
+                "original_price": 35.54,
+                "discounted_price": 29.498199999999997
+            },
+            {
+                "name": "Product_32",
+                "original_price": 19.0,
+                "discounted_price": 15.959999999999999
+            },
+            {
+                "name": "Product_11",
+                "original_price": 96.03,
+                "discounted_price": 96.03
+            },
+            {
+                "name": "Product_67",
+                "original_price": 44.91,
+                "discounted_price": 44.91
+            },
+            {
+                "name": "Product_53",
+                "original_price": 51.15,
+                "discounted_price": 36.827999999999996
+            },
+            {
+                "name": "Product_77",
+                "original_price": 43.42,
+                "discounted_price": 36.4728
+            }
+        ],
+        "total_price": 405.66,
+        "total_amount_spent": 375.30899999999997,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_140",
+        "products": [
+            {
+                "name": "Product_24",
+                "original_price": 9.4,
+                "discounted_price": 9.4
+            }
+        ],
+        "total_price": 9.4,
+        "total_amount_spent": 8.46,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_141",
+        "products": [
+            {
+                "name": "Product_61",
+                "original_price": 28.56,
+                "discounted_price": 28.56
+            },
+            {
+                "name": "Product_52",
+                "original_price": 61.66,
+                "discounted_price": 44.395199999999996
+            },
+            {
+                "name": "Product_29",
+                "original_price": 46.97,
+                "discounted_price": 33.8184
+            }
+        ],
+        "total_price": 137.19,
+        "total_amount_spent": 96.09624,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_142",
+        "products": [
+            {
+                "name": "Product_88",
+                "original_price": 29.99,
+                "discounted_price": 21.592799999999997
+            },
+            {
+                "name": "Product_33",
+                "original_price": 68.61,
+                "discounted_price": 68.61
+            },
+            {
+                "name": "Product_48",
+                "original_price": 27.81,
+                "discounted_price": 20.0232
+            },
+            {
+                "name": "Product_11",
+                "original_price": 96.03,
+                "discounted_price": 96.03
+            },
+            {
+                "name": "Product_98",
+                "original_price": 53.44,
+                "discounted_price": 44.889599999999994
+            }
+        ],
+        "total_price": 275.88,
+        "total_amount_spent": 251.1456,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_143",
+        "products": [
+            {
+                "name": "Product_7",
+                "original_price": 75.03,
+                "discounted_price": 54.0216
+            },
+            {
+                "name": "Product_20",
+                "original_price": 28.62,
+                "discounted_price": 28.62
+            },
+            {
+                "name": "Product_41",
+                "original_price": 76.64,
+                "discounted_price": 64.3776
+            }
+        ],
+        "total_price": 180.29,
+        "total_amount_spent": 132.31728,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_144",
+        "products": [
+            {
+                "name": "Product_75",
+                "original_price": 78.98,
+                "discounted_price": 56.8656
+            }
+        ],
+        "total_price": 78.98,
+        "total_amount_spent": 51.17904,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_145",
+        "products": [
+            {
+                "name": "Product_11",
+                "original_price": 96.03,
+                "discounted_price": 96.03
+            },
+            {
+                "name": "Product_99",
+                "original_price": 46.88,
+                "discounted_price": 46.88
+            },
+            {
+                "name": "Product_82",
+                "original_price": 77.91,
+                "discounted_price": 77.91
+            },
+            {
+                "name": "Product_61",
+                "original_price": 28.56,
+                "discounted_price": 28.56
+            }
+        ],
+        "total_price": 249.38,
+        "total_amount_spent": 249.38,
+        "cashier_name": "Cashier_1"
+    },
+    {
+        "customer_name": "Customer_146",
+        "products": [
+            {
+                "name": "Product_20",
+                "original_price": 28.62,
+                "discounted_price": 28.62
+            },
+            {
+                "name": "Product_14",
+                "original_price": 57.66,
+                "discounted_price": 57.66
+            },
+            {
+                "name": "Product_3",
+                "original_price": 40.6,
+                "discounted_price": 40.6
+            },
+            {
+                "name": "Product_57",
+                "original_price": 49.96,
+                "discounted_price": 41.9664
+            },
+            {
+                "name": "Product_56",
+                "original_price": 19.1,
+                "discounted_price": 13.752
+            },
+            {
+                "name": "Product_39",
+                "original_price": 92.94,
+                "discounted_price": 92.94
+            },
+            {
+                "name": "Product_51",
+                "original_price": 89.75,
+                "discounted_price": 89.75
+            }
+        ],
+        "total_price": 378.63,
+        "total_amount_spent": 365.2884,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_147",
+        "products": [
+            {
+                "name": "Product_13",
+                "original_price": 32.27,
+                "discounted_price": 27.106800000000003
+            },
+            {
+                "name": "Product_26",
+                "original_price": 96.19,
+                "discounted_price": 96.19
+            },
+            {
+                "name": "Product_35",
+                "original_price": 77.06,
+                "discounted_price": 77.06
+            },
+            {
+                "name": "Product_71",
+                "original_price": 16.54,
+                "discounted_price": 13.8936
+            },
+            {
+                "name": "Product_50",
+                "original_price": 93.8,
+                "discounted_price": 93.8
+            },
+            {
+                "name": "Product_65",
+                "original_price": 38.76,
+                "discounted_price": 38.76
+            },
+            {
+                "name": "Product_15",
+                "original_price": 20.91,
+                "discounted_price": 15.0552
+            },
+            {
+                "name": "Product_66",
+                "original_price": 56.05,
+                "discounted_price": 47.081999999999994
+            }
+        ],
+        "total_price": 431.58,
+        "total_amount_spent": 408.9476,
+        "cashier_name": "Cashier_2"
+    },
+    {
+        "customer_name": "Customer_148",
+        "products": [
+            {
+                "name": "Product_83",
+                "original_price": 82.5,
+                "discounted_price": 82.5
+            },
+            {
+                "name": "Product_87",
+                "original_price": 75.01,
+                "discounted_price": 75.01
+            },
+            {
+                "name": "Product_10",
+                "original_price": 30.1,
+                "discounted_price": 21.672
+            },
+            {
+                "name": "Product_73",
+                "original_price": 12.14,
+                "discounted_price": 10.1976
+            },
+            {
+                "name": "Product_31",
+                "original_price": 67.91,
+                "discounted_price": 67.91
+            },
+            {
+                "name": "Product_92",
+                "original_price": 53.41,
+                "discounted_price": 53.41
+            },
+            {
+                "name": "Product_32",
+                "original_price": 19.0,
+                "discounted_price": 15.959999999999999
+            }
+        ],
+        "total_price": 340.07,
+        "total_amount_spent": 293.9936399999999,
+        "cashier_name": "Cashier_3"
+    },
+    {
+        "customer_name": "Customer_149",
+        "products": [
+            {
+                "name": "Product_42",
+                "original_price": 74.25,
+                "discounted_price": 62.37
+            },
+            {
+                "name": "Product_28",
+                "original_price": 9.36,
+                "discounted_price": 9.36
+            },
+            {
+                "name": "Product_38",
+                "original_price": 28.75,
+                "discounted_price": 28.75
+            }
+        ],
+        "total_price": 112.36,
+        "total_amount_spent": 100.47999999999999,
+        "cashier_name": "Cashier_2"
+    }
+]
